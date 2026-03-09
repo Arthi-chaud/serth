@@ -13,7 +13,7 @@ packages:
     hackage: flatparse-0.5.3.0
 snapshots:
 - completed:
-    sha256: 74e7c16a4a111104faf2f9e95f8874b3db3d5aa78962eda6dd448388806bd490
-    size: 692467
-    url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/nightly/2025/9/10.yaml
-  original: nightly-2025-09-10
+    sha256: a8cfaae441160430cdde558cb80d4f9d60746e7417b275250e4e0af57ee14f36
+    size: 728954
+    url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/lts/24/33.yaml
+  original: lts-24.33
