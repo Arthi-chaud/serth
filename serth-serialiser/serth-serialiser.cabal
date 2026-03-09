@@ -1,0 +1,177 @@
+cabal-version: 2.2
+
+-- This file has been generated from package.yaml by hpack version 0.38.1.
+--
+-- see: https://github.com/sol/hpack
+
+name:           serth-serialiser
+version:        0.1.0.0
+author:         Author name here
+maintainer:     example@example.com
+copyright:      2025 Author name here
+license:        BSD-3-Clause
+build-type:     Simple
+
+library
+  exposed-modules:
+      Data.Serth.Serialiser
+      Data.Serth.Serialiser.Format
+      Data.Serth.Serialiser.Format.JSON
+      Data.Serth.Serialiser.Format.XML
+      Data.Serth.Serialiser.FieldName
+      Data.Serth.Serialiser.Serialisable
+      Data.Serth.Serialiser.Serialisable.TH
+      Data.Serth.Serialiser.Serialisable.TH.Internal
+      Data.Serth.Serialiser.Serialisable.TH.CompiledTemplate
+      Data.Serth.Serialiser.Template
+  other-modules:
+      Data.Serth.Serialiser.Serialisable.TH.CodeGen
+      Data.Serth.Serialiser.Serialisable.TH.Options
+      Paths_serth_serialiser
+  autogen-modules:
+      Paths_serth_serialiser
+  hs-source-dirs:
+      src
+  default-extensions:
+      AllowAmbiguousTypes
+      LambdaCase
+      MultiParamTypeClasses
+      RankNTypes
+      ScopedTypeVariables
+      TypeApplications
+  ghc-options: -Wall -Wcompat -Widentities -Wincomplete-record-updates -Wincomplete-uni-patterns -Wmissing-export-lists -Wmissing-home-modules -Wpartial-fields -Wredundant-constraints
+  build-depends:
+      aeson
+    , base >=4.7 && <5
+    , bytestring
+    , containers
+    , serth-base
+    , template-haskell
+  default-language: Haskell2010
+
+test-suite serialiser-test
+  type: exitcode-stdio-1.0
+  main-is: Spec.hs
+  other-modules:
+      Data
+      JSONSpec
+      TemplateSpec
+      XMLSpec
+      Paths_serth_serialiser
+  autogen-modules:
+      Paths_serth_serialiser
+  hs-source-dirs:
+      test
+  default-extensions:
+      AllowAmbiguousTypes
+      LambdaCase
+      MultiParamTypeClasses
+      RankNTypes
+      ScopedTypeVariables
+      TypeApplications
+  ghc-options: -Wall -Wcompat -Widentities -Wincomplete-record-updates -Wincomplete-uni-patterns -Wmissing-export-lists -Wmissing-home-modules -Wpartial-fields -Wredundant-constraints -threaded -rtsopts -with-rtsopts=-N
+  build-depends:
+      aeson
+    , base >=4.7 && <5
+    , bytestring
+    , hspec
+    , serth-base
+    , serth-serialiser
+  default-language: Haskell2010
+
+benchmark micro
+  type: exitcode-stdio-1.0
+  main-is: Main.hs
+  other-modules:
+      Data
+      JSON
+      JSON.Nested
+      JSON.Simple
+      XML
+      Paths_serth_serialiser
+  autogen-modules:
+      Paths_serth_serialiser
+  hs-source-dirs:
+      benchmark/micro
+  default-extensions:
+      AllowAmbiguousTypes
+      LambdaCase
+      MultiParamTypeClasses
+      RankNTypes
+      ScopedTypeVariables
+      TypeApplications
+  ghc-options: -Wall -Wcompat -Widentities -Wincomplete-record-updates -Wincomplete-uni-patterns -Wmissing-export-lists -Wmissing-home-modules -Wpartial-fields -Wredundant-constraints -threaded -rtsopts -with-rtsopts=-T -O2 -Wno-unused-top-binds -Wno-orphans -Wno-redundant-constraints
+  build-depends:
+      aeson
+    , base >=4.7 && <5
+    , bytestring
+    , bytestring-strict-builder
+    , criterion
+    , serth-base
+    , serth-serialiser
+    , xml
+  default-language: Haskell2010
+
+benchmark pandoc
+  type: exitcode-stdio-1.0
+  main-is: Main.hs
+  other-modules:
+      Futadata
+      Paths_serth_serialiser
+  autogen-modules:
+      Paths_serth_serialiser
+  hs-source-dirs:
+      benchmark/pandoc
+  default-extensions:
+      AllowAmbiguousTypes
+      LambdaCase
+      MultiParamTypeClasses
+      RankNTypes
+      ScopedTypeVariables
+      TypeApplications
+  ghc-options: -Wall -Wcompat -Widentities -Wincomplete-record-updates -Wincomplete-uni-patterns -Wmissing-export-lists -Wmissing-home-modules -Wpartial-fields -Wredundant-constraints -threaded -rtsopts -with-rtsopts=-N
+  build-depends:
+      aeson
+    , base >=4.7 && <5
+    , bytestring
+    , criterion
+    , deepseq
+    , pandoc
+    , pandoc-types
+    , serth-base
+    , serth-serialiser
+    , text
+  default-language: Haskell2010
+
+benchmark servant
+  type: exitcode-stdio-1.0
+  main-is: Main.hs
+  other-modules:
+      Futadata
+      Paths_serth_serialiser
+  autogen-modules:
+      Paths_serth_serialiser
+  hs-source-dirs:
+      benchmark/servant
+  default-extensions:
+      AllowAmbiguousTypes
+      LambdaCase
+      MultiParamTypeClasses
+      RankNTypes
+      ScopedTypeVariables
+      TypeApplications
+  ghc-options: -Wall -Wcompat -Widentities -Wincomplete-record-updates -Wincomplete-uni-patterns -Wmissing-export-lists -Wmissing-home-modules -Wpartial-fields -Wredundant-constraints -threaded -rtsopts -with-rtsopts=-N
+  build-depends:
+      HTTP
+    , aeson
+    , base >=4.7 && <5
+    , bytestring
+    , criterion
+    , deepseq
+    , network-uri
+    , serth-base
+    , serth-serialiser
+    , servant
+    , servant-server
+    , warp
+  default-language: Haskell2010

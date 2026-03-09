@@ -3,7 +3,7 @@ resolver: lts-24.33
 system-ghc: true
 packages:
   - serth-base
-  - reflection-serialiser
+  - serth-serialiser
   - reflection-json-parser
   - benchmarks/parser-server/haskell
 extra-deps:

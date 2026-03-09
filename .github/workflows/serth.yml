@@ -69,11 +69,11 @@ jobs:
             reflection-json-parser:bench:micro                         \
             reflection-json-parser:lib                                 \
             reflection-json-parser:test:json-parser-test               \
-            reflection-serialiser:bench:micro                          \
-            reflection-serialiser:bench:pandoc                         \
-            reflection-serialiser:bench:servant                        \
-            reflection-serialiser:lib                                  \
-            reflection-serialiser:test:serialiser-test                 \
+            serth-serialiser:bench:micro                          \
+            serth-serialiser:bench:pandoc                         \
+            serth-serialiser:bench:servant                        \
+            serth-serialiser:lib                                  \
+            serth-serialiser:test:serialiser-test                 \
             --no-run-benchmarks --no-run-tests
   Format:
     if: ${{ needs.changes.outputs.serth == 'true' && github.event_name == 'pull_request' }}
