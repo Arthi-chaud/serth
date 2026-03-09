@@ -12,7 +12,7 @@ import Data.JSON.FromJSON
 import Data.JSON.Parser.Base (Error (..))
 import Data.JSON.Parser.Internal
 import qualified Data.List.NonEmpty as NE
-import Data.Reflection
+import Data.Serth.Base
 import qualified FlatParse.Basic as B
 import FlatParse.Stateful (switch)
 import qualified FlatParse.Stateful as S

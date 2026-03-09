@@ -15,7 +15,7 @@ import Data.Reflection.Serialiser.Serialisable
 import Data.Reflection.Serialiser.Serialisable.TH.CompiledTemplate
 import Data.Reflection.Serialiser.Serialisable.TH.Options
 import Data.Reflection.Serialiser.Template
-import Data.Reflection.Type
+import Data.Serth.Base.Type
 import Language.Haskell.TH (Name, mkName, nameBase)
 
 -- | Generates a template from a given 'DataConstructor'.

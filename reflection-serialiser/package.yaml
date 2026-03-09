@@ -11,7 +11,7 @@ description: Please see the README on GitHub at <https://github.com/githubuser/r
 dependencies:
   - base >= 4.7 && < 5
   - bytestring
-  - reflection-base
+  - serth-base
   - aeson
 
 default-extensions:

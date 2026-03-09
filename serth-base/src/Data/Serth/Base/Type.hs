@@ -1,4 +1,4 @@
-module Data.Reflection.Type (Type (..), Constructor (..), conName) where
+module Data.Serth.Base.Type (Type (..), Constructor (..), conName) where
 
 import Language.Haskell.TH (Name)
 import qualified Language.Haskell.TH as TH

@@ -1,9 +1,9 @@
-module Data.Reflection.Observe (observeValueType, observeType) where
+module Data.Serth.Base.Observe (observeValueType, observeType) where
 
 import Control.Monad
-import Data.Reflection.EDSL
-import Data.Reflection.Internal
-import Data.Reflection.Type
+import Data.Serth.Base.EDSL
+import Data.Serth.Base.Internal
+import Data.Serth.Base.Type
 import Language.Haskell.TH (Exp, Name, Q)
 import qualified Language.Haskell.TH as TH
 

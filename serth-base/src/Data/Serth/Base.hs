@@ -1,4 +1,4 @@
-module Data.Reflection (
+module Data.Serth.Base (
     -- * Observe
     observeValueType,
     observeType,
@@ -12,6 +12,6 @@ module Data.Reflection (
     conName,
 ) where
 
-import Data.Reflection.EDSL
-import Data.Reflection.Observe
-import Data.Reflection.Type
+import Data.Serth.Base.EDSL
+import Data.Serth.Base.Observe
+import Data.Serth.Base.Type

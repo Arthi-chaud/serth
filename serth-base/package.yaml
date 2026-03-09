@@ -1,12 +1,10 @@
-name: reflection-base
+name: serth-base
 version: 0.1.0.0
-github: "githubuser/reflection"
+github: "Arthi-chaud/serth"
 license: BSD-3-Clause
 author: "Author name here"
 maintainer: "example@example.com"
 copyright: "2025 Author name here"
-
-description: Please see the README on GitHub at <https://github.com/githubuser/reflection#readme>
 
 dependencies:
   - base >= 4.7 && < 5
@@ -32,7 +30,7 @@ library:
   source-dirs: src
 
 tests:
-  reflection-test:
+  serth-test:
     main: Spec.hs
     source-dirs: test
     ghc-options:
@@ -40,5 +38,5 @@ tests:
       - -rtsopts
       - -with-rtsopts=-N
     dependencies:
-      - reflection-base
+      - serth-base
       - hspec

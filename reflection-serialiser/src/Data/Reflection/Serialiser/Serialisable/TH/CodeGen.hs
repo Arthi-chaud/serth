@@ -14,13 +14,13 @@ import Data.ByteString.Char8 (unpack)
 import Data.Either
 import Data.Functor
 import Data.Maybe
-import Data.Reflection
 import Data.Reflection.Serialiser.FieldName (FieldName (FieldName))
 import Data.Reflection.Serialiser.Format
 import Data.Reflection.Serialiser.Serialisable (Serialisable, builder)
 import Data.Reflection.Serialiser.Serialisable.TH.CompiledTemplate (compileTemplate)
 import Data.Reflection.Serialiser.Serialisable.TH.Internal
 import Data.Reflection.Serialiser.Template
+import Data.Serth.Base
 import Language.Haskell.TH hiding (Type)
 
 genBuilderMatch :: forall format. (Format format, Serialisable format String) => Name -> Constructor -> Template format -> Q Match

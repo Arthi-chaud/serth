@@ -1,4 +1,4 @@
-module Data.Reflection.EDSL (EDSL (..)) where
+module Data.Serth.Base.EDSL (EDSL (..)) where
 
 import Language.Haskell.TH
 

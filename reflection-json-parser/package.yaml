@@ -9,8 +9,6 @@ copyright: "2025 Author name here"
 extra-source-files:
   - README.md
 
-description: Please see the README on GitHub at <https://github.com/githubuser/reflection-json-parser#readme>
-
 dependencies:
   - base >= 4.7 && < 5
   - bytestring
@@ -40,7 +38,7 @@ library:
     - megaparsec
     - flatparse
     - template-haskell
-    - reflection-base
+    - serth-base
 tests:
   json-parser-test:
     main: Spec.hs

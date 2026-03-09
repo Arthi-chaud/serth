@@ -10,13 +10,13 @@ module Data.Reflection.Serialiser.Serialisable.TH (
     module Data.Reflection.Serialiser.Serialisable.TH.Options,
 ) where
 
-import Data.Reflection
 import Data.Reflection.Serialiser.Format (Format)
 import Data.Reflection.Serialiser.Serialisable (Serialisable (builder))
 import Data.Reflection.Serialiser.Serialisable.TH.CodeGen (genBuilderMatch)
 import Data.Reflection.Serialiser.Serialisable.TH.Internal
 import Data.Reflection.Serialiser.Serialisable.TH.Options
 import Data.Reflection.Serialiser.Template (Template)
+import Data.Serth.Base
 import Language.Haskell.TH hiding (Prim)
 
 data SerialisationExpr format

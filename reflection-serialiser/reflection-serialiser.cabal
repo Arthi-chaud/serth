@@ -52,7 +52,7 @@ library
     , base >=4.7 && <5
     , bytestring
     , containers
-    , reflection-base
+    , serth-base
     , template-haskell
   default-language: Haskell2010
 
@@ -82,8 +82,8 @@ test-suite serialiser-test
     , base >=4.7 && <5
     , bytestring
     , hspec
-    , reflection-base
     , reflection-serialiser
+    , serth-base
   default-language: Haskell2010
 
 benchmark micro
@@ -114,8 +114,8 @@ benchmark micro
     , bytestring
     , bytestring-strict-builder
     , criterion
-    , reflection-base
     , reflection-serialiser
+    , serth-base
     , xml
   default-language: Haskell2010
 
@@ -145,8 +145,8 @@ benchmark pandoc
     , deepseq
     , pandoc
     , pandoc-types
-    , reflection-base
     , reflection-serialiser
+    , serth-base
     , text
   default-language: Haskell2010
 
@@ -176,8 +176,8 @@ benchmark servant
     , criterion
     , deepseq
     , network-uri
-    , reflection-base
     , reflection-serialiser
+    , serth-base
     , servant
     , servant-server
     , warp
