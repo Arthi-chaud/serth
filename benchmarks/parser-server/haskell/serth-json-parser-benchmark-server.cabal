@@ -1,10 +1,10 @@
 cabal-version: 2.2
 
--- This file has been generated from package.yaml by hpack version 0.37.0.
+-- This file has been generated from package.yaml by hpack version 0.38.1.
 --
 -- see: https://github.com/sol/hpack
 
-name:           reflection-json-parser-benchmark-server
+name:           serth-json-parser-benchmark-server
 version:        0.1.0.0
 homepage:       https://github.com/githubuser/haskell#readme
 bug-reports:    https://github.com/githubuser/haskell/issues
@@ -21,9 +21,9 @@ source-repository head
 executable haskell-server
   main-is: Main.hs
   other-modules:
-      Paths_reflection_json_parser_benchmark_server
+      Paths_serth_json_parser_benchmark_server
   autogen-modules:
-      Paths_reflection_json_parser_benchmark_server
+      Paths_serth_json_parser_benchmark_server
   hs-source-dirs:
       app
   default-extensions:
@@ -35,6 +35,6 @@ executable haskell-server
     , bytestring
     , deepseq
     , flatparse
-    , reflection-json-parser
     , scotty
+    , serth-json-parser
   default-language: Haskell2010

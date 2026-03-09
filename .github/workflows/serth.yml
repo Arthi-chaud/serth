@@ -24,8 +24,6 @@ jobs:
     steps:
       - name: Check out the repo
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.PAT }}
       - uses: dorny/paths-filter@v3
         id: filter
         with:
@@ -54,8 +52,6 @@ jobs:
     steps:
       - name: Check out the repo
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.PAT }}
       - name: Setup GHC
         uses: ./.github/actions/cache-deps
         with:
@@ -65,10 +61,10 @@ jobs:
           stack --compiler ghc-${{ matrix.ghc-version }} build \
             serth-base:lib                                        \
             serth-base:test:serth-test                       \
-            reflection-json-parser-benchmark-server:exe:haskell-server \
-            reflection-json-parser:bench:micro                         \
-            reflection-json-parser:lib                                 \
-            reflection-json-parser:test:json-parser-test               \
+            serth-json-parser-benchmark-server:exe:haskell-server \
+            serth-json-parser:bench:micro                         \
+            serth-json-parser:lib                                 \
+            serth-json-parser:test:json-parser-test               \
             serth-serialiser:bench:micro                          \
             serth-serialiser:bench:pandoc                         \
             serth-serialiser:bench:servant                        \

@@ -14,8 +14,8 @@ module Lib where
 
 import qualified Data.Aeson as A
 import Data.JSON.TH (genFromJSON)
-import Data.Reflection.Serialiser.Format.JSON
-import Data.Reflection.Serialiser.Serialisable.TH (genSerialisables)
+import Data.Serth.Serialiser.Format.JSON
+import Data.Serth.Serialiser.Serialisable.TH (genSerialisables)
 import GHC.Generics
 
 data User = User {id :: Int, name :: String, email :: String, enabled :: Bool}

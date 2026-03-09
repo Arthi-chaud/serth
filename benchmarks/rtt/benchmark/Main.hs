@@ -22,9 +22,9 @@ import qualified Data.ByteString.Lazy as BS
 import Data.Functor ((<&>))
 import qualified Data.JSON.FromJSON as R
 import Data.Maybe (fromMaybe)
-import Data.Reflection.Serialiser
-import Data.Reflection.Serialiser.Format.JSON
-import qualified Data.Reflection.Serialiser.Format.JSON as R
+import Data.Serth.Serialiser
+import Data.Serth.Serialiser.Format.JSON
+import qualified Data.Serth.Serialiser.Format.JSON as R
 import FlatParse.Basic hiding (Parser)
 import GHC.Generics
 import Lib

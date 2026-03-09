@@ -17,8 +17,8 @@ description: Please see the README on GitHub at <https://github.com/githubuser/r
 
 dependencies:
   - base >= 4.7 && < 5
-  - reflection-serialiser
-  - reflection-json-parser
+  - serth-serialiser
+  - serth-json-parser
   - aeson
   - deepseq
 

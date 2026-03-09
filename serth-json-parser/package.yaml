@@ -1,6 +1,5 @@
-name: reflection-json-parser
+name: serth-json-parser
 version: 0.1.0.0
-github: "githubuser/reflection-json-parser"
 license: BSD-3-Clause
 author: "Author name here"
 maintainer: "example@example.com"
@@ -49,7 +48,7 @@ tests:
       - -with-rtsopts=-N
     dependencies:
       - hspec
-      - reflection-json-parser
+      - serth-json-parser
       - flatparse
       - bytestring
 benchmarks:
@@ -65,7 +64,7 @@ benchmarks:
       - -Wno-orphans
       - -Wno-redundant-constraints
     dependencies:
-      - reflection-json-parser
+      - serth-json-parser
       - bytestring
       - flatparse
       - criterion

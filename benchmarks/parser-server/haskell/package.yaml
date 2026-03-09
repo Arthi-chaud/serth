@@ -1,4 +1,4 @@
-name: reflection-json-parser-benchmark-server
+name: serth-json-parser-benchmark-server
 version: 0.1.0.0
 github: "githubuser/haskell"
 license: BSD-3-Clause
@@ -34,7 +34,7 @@ executables:
       - -rtsopts
       - -with-rtsopts=-N
     dependencies:
-      - reflection-json-parser
+      - serth-json-parser
       - scotty
       - aeson
       - bytestring
