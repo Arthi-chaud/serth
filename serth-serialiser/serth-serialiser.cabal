@@ -83,11 +83,6 @@ benchmark micro
   type: exitcode-stdio-1.0
   main-is: Main.hs
   other-modules:
-      Data
-      JSON
-      JSON.Nested
-      JSON.Simple
-      XML
       Paths_serth_serialiser
   autogen-modules:
       Paths_serth_serialiser
@@ -107,6 +102,7 @@ benchmark micro
     , bytestring
     , bytestring-strict-builder
     , criterion
+    , deepseq
     , serth-base
     , serth-serialiser
     , xml

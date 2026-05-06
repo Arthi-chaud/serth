@@ -75,6 +75,7 @@ benchmarks:
       - serth-serialiser
       - xml
       - criterion
+      - deepseq
       - aeson
       - bytestring-strict-builder
   servant:
