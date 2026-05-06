@@ -143,7 +143,8 @@ benchmark servant
   type: exitcode-stdio-1.0
   main-is: Main.hs
   other-modules:
-      Futadata
+      Data
+      MB
       Paths_serth_serialiser
   autogen-modules:
       Paths_serth_serialiser
@@ -159,6 +160,7 @@ benchmark servant
   ghc-options: -Wall -Wcompat -Widentities -Wincomplete-record-updates -Wincomplete-uni-patterns -Wmissing-export-lists -Wmissing-home-modules -Wpartial-fields -Wredundant-constraints -threaded -rtsopts -with-rtsopts=-N
   build-depends:
       HTTP
+    , MusicBrainz
     , aeson
     , base >=4.7 && <5
     , bytestring

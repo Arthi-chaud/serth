@@ -1,0 +1,3995 @@
+[
+	{
+		"id": "c595c289-47ce-4fba-b999-b87503e8cb71",
+		"type": "Imprint",
+		"type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+		"score": 100,
+		"name": "Warner Bros. Records",
+		"sort-name": "Warner Bros. Records",
+		"label-code": 392,
+		"disambiguation": "1958–2019; “WB” logo, with or without “records” beneath or on banner across",
+		"country": "US",
+		"area": {
+			"id": "489ce91b-6658-3307-9877-795b68554c98",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "United States",
+			"sort-name": "United States",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "1958-03-19",
+			"end": "2019-05-28",
+			"ended": true
+		},
+		"aliases": [
+			{
+				"sort-name": "Warner Bros.",
+				"name": "Warner Bros.",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "Warner Brothers",
+				"name": "Warner Brothers",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "Warner Bros UK",
+				"name": "Warner Bros UK",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "Warner Bros",
+				"name": "Warner Bros",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "Warner Bros. (Japan)",
+				"name": "Warner Bros. (Japan)",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "Warner Bros Records",
+				"name": "Warner Bros Records",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "WB Records",
+				"type-id": "829662f2-a781-3ec8-8b46-fbcea6196f81",
+				"name": "WB Records",
+				"locale": null,
+				"type": "Search hint",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "Warner Brothers Records",
+				"name": "Warner Brothers Records",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "Warner Bros.-Seven Arts",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "Warner Bros.-Seven Arts",
+				"locale": "en",
+				"type": "Label name",
+				"primary": null,
+				"begin-date": "1967",
+				"end-date": "1970"
+			}
+		],
+		"tags": [
+			{
+				"count": 2,
+				"name": "rock"
+			},
+			{
+				"count": 1,
+				"name": "electronic"
+			},
+			{
+				"count": 1,
+				"name": "soundtrack"
+			},
+			{
+				"count": 1,
+				"name": "classical"
+			},
+			{
+				"count": 2,
+				"name": "pop"
+			},
+			{
+				"count": 0,
+				"name": "alternative rock"
+			},
+			{
+				"count": 1,
+				"name": "progressive rock"
+			},
+			{
+				"count": 1,
+				"name": "american"
+			},
+			{
+				"count": 1,
+				"name": "usa"
+			},
+			{
+				"count": 1,
+				"name": "funk"
+			},
+			{
+				"count": 1,
+				"name": "score"
+			},
+			{
+				"count": 1,
+				"name": "américain"
+			},
+			{
+				"count": 1,
+				"name": "new prog"
+			}
+		]
+	},
+	{
+		"id": "c4f2cf49-b57c-4cc1-8061-f54400704ac4",
+		"type": "Imprint",
+		"type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+		"score": 87,
+		"name": "Rhino",
+		"sort-name": "Rhino",
+		"label-code": 2982,
+		"disambiguation": "reissue label",
+		"country": "US",
+		"area": {
+			"id": "489ce91b-6658-3307-9877-795b68554c98",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "United States",
+			"sort-name": "United States",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "1973",
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "Rhino Records",
+				"name": "Rhino Records",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "Rhino Entertainment",
+				"name": "Rhino Entertainment",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "Rhino/Warner Bros.",
+				"name": "Rhino/Warner Bros.",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "Rhino Records (2)",
+				"name": "Rhino Records (2)",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "ライノ・レコード",
+				"name": "ライノ・レコード",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "ライノレコード",
+				"name": "ライノレコード",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "Rhino / WEA",
+				"name": "Rhino / WEA",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "Rhino UK",
+				"name": "Rhino UK",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "Rhino/Warner Records",
+				"type-id": "829662f2-a781-3ec8-8b46-fbcea6196f81",
+				"name": "Rhino/Warner Records",
+				"locale": null,
+				"type": "Search hint",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "Rhino/Elektra",
+				"type-id": "829662f2-a781-3ec8-8b46-fbcea6196f81",
+				"name": "Rhino/Elektra",
+				"locale": null,
+				"type": "Search hint",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "Rhino France",
+				"name": "Rhino France",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		],
+		"tags": [
+			{
+				"count": 2,
+				"name": "rock"
+			},
+			{
+				"count": 2,
+				"name": "jazz"
+			},
+			{
+				"count": 0,
+				"name": "american"
+			},
+			{
+				"count": 0,
+				"name": "usa"
+			},
+			{
+				"count": 0,
+				"name": "américain"
+			},
+			{
+				"count": 2,
+				"name": "free jazz"
+			},
+			{
+				"count": 2,
+				"name": "chicago"
+			},
+			{
+				"count": 2,
+				"name": "various artists"
+			},
+			{
+				"count": 0,
+				"name": "billboard"
+			},
+			{
+				"count": 0,
+				"name": "supernatural fairy tales 5 cd box set rhino 1996"
+			},
+			{
+				"count": 0,
+				"name": "5054197229022"
+			},
+			{
+				"count": 0,
+				"name": "opcd-8009"
+			}
+		]
+	},
+	{
+		"id": "26ea8229-7cf7-4482-8dae-15589ceb5398",
+		"type": "Imprint",
+		"type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+		"score": 86,
+		"name": "Warner Music Japan",
+		"sort-name": "Warner Music Japan",
+		"disambiguation": "primary imprint of Warner Music Japan, Inc.; do not use for copyright/publisher/etc. relationships!",
+		"country": "JP",
+		"area": {
+			"id": "2db42837-c832-3c27-b4a3-08198f75693c",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "Japan",
+			"sort-name": "Japan",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "2001",
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "Warner‐Pioneer Corporation",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "Warner‐Pioneer Corporation",
+				"locale": "en",
+				"type": "Label name",
+				"primary": null,
+				"begin-date": "1972",
+				"end-date": "1989"
+			},
+			{
+				"sort-name": "Warner Brothers‐Pioneer Corporation",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "Warner Brothers‐Pioneer Corporation",
+				"locale": "en",
+				"type": "Label name",
+				"primary": null,
+				"begin-date": "1970-11-11",
+				"end-date": "1972"
+			},
+			{
+				"sort-name": "WP - ワーナー・ミュージック・ジャパン",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "WP - ワーナー・ミュージック・ジャパン",
+				"locale": "ja",
+				"type": "Label name",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "ワーナー・ミュージック・ジャパン",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "ワーナー・ミュージック・ジャパン",
+				"locale": "ja",
+				"type": "Label name",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "ワーナーミュージック・ジャパン",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "ワーナーミュージック・ジャパン",
+				"locale": "ja",
+				"type": "Label name",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "ワーナーミュージックジャパン",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "ワーナーミュージックジャパン",
+				"locale": "ja",
+				"type": "Label name",
+				"primary": true,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "WMJ",
+				"type-id": "829662f2-a781-3ec8-8b46-fbcea6196f81",
+				"name": "WMJ",
+				"locale": null,
+				"type": "Search hint",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "WM Japan",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "WM Japan",
+				"locale": "en",
+				"type": "Label name",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "Warner Entertainment Japan",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "Warner Entertainment Japan",
+				"locale": "en",
+				"type": "Label name",
+				"primary": null,
+				"begin-date": "2002",
+				"end-date": "2004"
+			},
+			{
+				"sort-name": "Warner Music Japan",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "Warner Music Japan",
+				"locale": "en",
+				"type": "Label name",
+				"primary": true,
+				"begin-date": "2004",
+				"end-date": null
+			},
+			{
+				"sort-name": "Warner Music Japan Inc.",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "Warner Music Japan Inc.",
+				"locale": "en",
+				"type": "Label name",
+				"primary": null,
+				"begin-date": "1991",
+				"end-date": "2002"
+			}
+		],
+		"tags": [
+			{
+				"count": 1,
+				"name": "clean up"
+			},
+			{
+				"count": 2,
+				"name": "record company logo"
+			}
+		]
+	},
+	{
+		"id": "46f0f4cd-8aab-4b33-b698-f459faf64190",
+		"type": "Original Production",
+		"type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+		"score": 84,
+		"name": "Warp",
+		"sort-name": "Warp",
+		"label-code": 2070,
+		"isnis": [
+			"0000000107280584"
+		],
+		"disambiguation": "UK independent label",
+		"country": "GB",
+		"area": {
+			"id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "United Kingdom",
+			"sort-name": "United Kingdom",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "1989-07",
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "Warp Records",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "Warp Records",
+				"locale": "en_GB",
+				"type": "Label name",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		],
+		"tags": [
+			{
+				"count": 4,
+				"name": "idm"
+			},
+			{
+				"count": 5,
+				"name": "electronic"
+			},
+			{
+				"count": 2,
+				"name": "electronica"
+			},
+			{
+				"count": 1,
+				"name": "glitch"
+			},
+			{
+				"count": 1,
+				"name": "independent"
+			},
+			{
+				"count": 1,
+				"name": "techno"
+			},
+			{
+				"count": 1,
+				"name": "warp"
+			},
+			{
+				"count": 2,
+				"name": "experimental"
+			},
+			{
+				"count": 2,
+				"name": "uk"
+			},
+			{
+				"count": 1,
+				"name": "britannique"
+			},
+			{
+				"count": 1,
+				"name": "experimental rock"
+			},
+			{
+				"count": 4,
+				"name": "british"
+			},
+			{
+				"count": 1,
+				"name": "indie rock"
+			},
+			{
+				"count": 1,
+				"name": "elektra"
+			},
+			{
+				"count": 3,
+				"name": "english"
+			}
+		]
+	},
+	{
+		"id": "d2b23e53-8216-45f7-a364-c2451fd3a874",
+		"type": "Original Production",
+		"type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+		"score": 84,
+		"name": "Wrong Again Records",
+		"sort-name": "Wrong Again Records",
+		"area": {
+			"id": "736fe0b8-39ff-4bdc-b637-16f7ef91ef09",
+			"type": "City",
+			"type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+			"name": "Hjärup",
+			"sort-name": "Hjärup",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "1993",
+			"end": "1997",
+			"ended": true
+		},
+		"aliases": [
+			{
+				"sort-name": "WAR",
+				"name": "WAR",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "W.A.R.",
+				"name": "W.A.R.",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		],
+		"tags": [
+			{
+				"count": 1,
+				"name": "heavy metal"
+			},
+			{
+				"count": 1,
+				"name": "death metal"
+			},
+			{
+				"count": 1,
+				"name": "thrash metal"
+			},
+			{
+				"count": 1,
+				"name": "melodic death metal"
+			},
+			{
+				"count": 1,
+				"name": "black metal"
+			},
+			{
+				"count": 1,
+				"name": "japan"
+			},
+			{
+				"count": 1,
+				"name": "rock"
+			},
+			{
+				"count": 1,
+				"name": "arch enemy"
+			},
+			{
+				"count": 1,
+				"name": "metal"
+			}
+		]
+	},
+	{
+		"id": "981100aa-968e-42bb-bc00-1c2f3aea52c6",
+		"type": "Production",
+		"type-id": "a2426aab-2dd4-339c-b47d-b4923a241678",
+		"score": 83,
+		"name": "Nuclear War Now! Productions",
+		"sort-name": "Nuclear War Now! Productions",
+		"area": {
+			"id": "d412d313-af47-4249-ba9a-95a4ae2565c6",
+			"type": "City",
+			"type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+			"name": "Redwood City",
+			"sort-name": "Redwood City",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "2001",
+			"ended": null
+		}
+	},
+	{
+		"id": "d4cd174f-784d-48d7-91c6-7427bd5d57fe",
+		"type": "Imprint",
+		"type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+		"score": 81,
+		"name": "Warner Records",
+		"sort-name": "Warner Records",
+		"disambiguation": "2019–present; circle imprint with “Warner Records” next to it",
+		"country": "US",
+		"area": {
+			"id": "489ce91b-6658-3307-9877-795b68554c98",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "United States",
+			"sort-name": "United States",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "2019-05-28",
+			"ended": null
+		}
+	},
+	{
+		"id": "144b1ee6-b172-4d13-b8e5-6f1f478a69f3",
+		"type": "Original Production",
+		"type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+		"score": 80,
+		"name": "WAR Productions",
+		"sort-name": "WAR Productions",
+		"disambiguation": "Portuguese record label",
+		"country": "PT",
+		"area": {
+			"id": "781b0c54-3d54-362d-a941-8a617def4992",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "Portugal",
+			"sort-name": "Portugal",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"ended": null
+		}
+	},
+	{
+		"id": "3399f27d-d2f0-4a43-9f3e-39004121e089",
+		"type": "Original Production",
+		"type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+		"score": 80,
+		"name": "War Anthem Records",
+		"sort-name": "War Anthem Records",
+		"country": "DE",
+		"area": {
+			"id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "Germany",
+			"sort-name": "Germany",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "2006",
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "War Antheme Records",
+				"name": "War Antheme Records",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "WAR-ANTHEM Records",
+				"name": "WAR-ANTHEM Records",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		]
+	},
+	{
+		"id": "e92a158e-e59b-463d-9c29-227151757718",
+		"score": 80,
+		"name": "War",
+		"sort-name": "War",
+		"disambiguation": "Limited 500 copy vinyl-only reggae/dub remix dubstep label",
+		"life-span": {
+			"begin": "2007-04-12",
+			"ended": null
+		},
+		"tags": [
+			{
+				"count": 1,
+				"name": "dubstep"
+			}
+		]
+	},
+	{
+		"id": "6eadf0d6-336c-4f25-a1eb-ab0cd98f6906",
+		"type": "Imprint",
+		"type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+		"score": 80,
+		"name": "Warner Classics",
+		"sort-name": "Warner Classics",
+		"label-code": 2822,
+		"country": "FR",
+		"area": {
+			"id": "08310658-51eb-3801-80de-5a0739207115",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "France",
+			"sort-name": "France",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "1991",
+			"ended": null
+		},
+		"tags": [
+			{
+				"count": 2,
+				"name": "classical"
+			},
+			{
+				"count": 1,
+				"name": "modern classical"
+			},
+			{
+				"count": 1,
+				"name": "bach"
+			},
+			{
+				"count": 1,
+				"name": "menuhin"
+			}
+		]
+	},
+	{
+		"id": "211402ff-6a59-4c18-ae9b-cbc8c31022bc",
+		"type": "Production",
+		"type-id": "a2426aab-2dd4-339c-b47d-b4923a241678",
+		"score": 80,
+		"name": "Crust War",
+		"sort-name": "Crust War",
+		"country": "JP",
+		"area": {
+			"id": "2db42837-c832-3c27-b4a3-08198f75693c",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "Japan",
+			"sort-name": "Japan",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"ended": null
+		}
+	},
+	{
+		"id": "69addcb5-2625-46af-8f14-e594f7d735ec",
+		"type": "Original Production",
+		"type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+		"score": 79,
+		"name": "Julia’s War",
+		"sort-name": "Julia’s War",
+		"area": {
+			"id": "0eeb01c2-6e31-46ad-96b8-319749f731d2",
+			"type": "City",
+			"type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+			"name": "Philadelphia",
+			"sort-name": "Philadelphia",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "2021",
+			"ended": null
+		}
+	},
+	{
+		"id": "e401ebfc-89bb-4a30-a062-f91625ece68a",
+		"type": "Original Production",
+		"type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+		"score": 79,
+		"name": "Warner Music Sweden",
+		"sort-name": "Warner Music Sweden",
+		"disambiguation": "Warner Music Sweden AB’s main label",
+		"country": "SE",
+		"area": {
+			"id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "Sweden",
+			"sort-name": "Sweden",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "Warner Sweden",
+				"name": "Warner Sweden",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "Warner Music Sweden AB",
+				"name": "Warner Music Sweden AB",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "WM Sweden",
+				"name": "WM Sweden",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		]
+	},
+	{
+		"id": "52825091-69b0-47bb-8b28-9612b69ddc21",
+		"type": "Original Production",
+		"type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+		"score": 78,
+		"name": "Warner Music Finland",
+		"sort-name": "Warner Music Finland",
+		"isnis": [
+			"0000000093463688"
+		],
+		"country": "FI",
+		"area": {
+			"id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "Finland",
+			"sort-name": "Finland",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "1993",
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "WM Finland",
+				"name": "WM Finland",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		],
+		"tags": [
+			{
+				"count": 1,
+				"name": "lefa22"
+			}
+		]
+	},
+	{
+		"id": "d1233880-17c2-41a8-91f5-764f37a37c63",
+		"type": "Imprint",
+		"type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+		"score": 78,
+		"name": "Warner Music Germany",
+		"sort-name": "Warner Music Germany",
+		"label-code": 4751,
+		"country": "DE",
+		"area": {
+			"id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "Germany",
+			"sort-name": "Germany",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "Warner Music Group Germany Holding GmbH",
+				"name": "Warner Music Group Germany Holding GmbH",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "WM Germany",
+				"name": "WM Germany",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "Warner Music Germany GmbH",
+				"name": "Warner Music Germany GmbH",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		]
+	},
+	{
+		"id": "50c60cf9-cecb-4e30-a6e0-e8b64434627b",
+		"type": "Distributor",
+		"type-id": "53ab8dcc-9946-3b62-966e-7634d78e5034",
+		"score": 78,
+		"name": "Warner Music France",
+		"sort-name": "Warner Music France",
+		"country": "FR",
+		"area": {
+			"id": "08310658-51eb-3801-80de-5a0739207115",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "France",
+			"sort-name": "France",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "1971-07-01",
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "WM FR Affiliated",
+				"name": "WM FR Affiliated",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "Warner Music France",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "Warner Music France",
+				"locale": null,
+				"type": "Label name",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "WM France",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "WM France",
+				"locale": null,
+				"type": "Label name",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "Kinney Fillipacchi Music S.A.",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "Kinney Fillipacchi Music S.A.",
+				"locale": "en",
+				"type": "Label name",
+				"primary": null,
+				"begin-date": "1971-07-01",
+				"end-date": "1973"
+			},
+			{
+				"sort-name": "Warner (France)",
+				"name": "Warner (France)",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "Waner Music France",
+				"type-id": "829662f2-a781-3ec8-8b46-fbcea6196f81",
+				"name": "Waner Music France",
+				"locale": null,
+				"type": "Search hint",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "WEA Fillipacchi Music S. A.",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "WEA Fillipacchi Music S. A.",
+				"locale": "en",
+				"type": "Label name",
+				"primary": null,
+				"begin-date": "1973",
+				"end-date": "1990"
+			}
+		],
+		"tags": [
+			{
+				"count": 1,
+				"name": "la discotheque ideale soul"
+			}
+		]
+	},
+	{
+		"id": "e516d9cb-1f6c-4801-9516-398139cb652a",
+		"type": "Imprint",
+		"type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+		"score": 77,
+		"name": "Art@War",
+		"sort-name": "Art@War",
+		"life-span": {
+			"ended": null
+		}
+	},
+	{
+		"id": "05ffcc6b-2a89-4232-9c78-3d3d06c77e38",
+		"score": 77,
+		"name": "WAR Records",
+		"sort-name": "WAR Records",
+		"disambiguation": "Los Angeles label",
+		"area": {
+			"id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+			"type": "City",
+			"type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+			"name": "Los Angeles",
+			"sort-name": "Los Angeles",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"ended": null
+		}
+	},
+	{
+		"id": "d50eb1c1-20bd-46b2-a216-a26aac9b7130",
+		"type": "Distributor",
+		"type-id": "53ab8dcc-9946-3b62-966e-7634d78e5034",
+		"score": 77,
+		"name": "Warner Music Australia",
+		"sort-name": "Warner Music Australia",
+		"disambiguation": "AU subsidiary of Warner Music International since 1988",
+		"country": "AU",
+		"area": {
+			"id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "Australia",
+			"sort-name": "Australia",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "1988",
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "Warner Music Australia Pty. Limited",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "Warner Music Australia Pty. Limited",
+				"locale": null,
+				"type": "Label name",
+				"primary": null,
+				"begin-date": "1988",
+				"end-date": null
+			},
+			{
+				"sort-name": "WM Australia",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "WM Australia",
+				"locale": null,
+				"type": "Label name",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "Warner Music Australia",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "Warner Music Australia",
+				"locale": null,
+				"type": "Label name",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		],
+		"tags": [
+			{
+				"count": 1,
+				"name": "distributor"
+			},
+			{
+				"count": 1,
+				"name": "need to verify australia vs australasia"
+			},
+			{
+				"count": 1,
+				"name": "manufacturer"
+			},
+			{
+				"count": 1,
+				"name": "copyrights"
+			}
+		]
+	},
+	{
+		"id": "8f7588ae-e098-4e20-8d53-4e70d51e608d",
+		"score": 76,
+		"name": "Warner Music Spain",
+		"sort-name": "Warner Music Spain",
+		"label-code": 4281,
+		"country": "ES",
+		"area": {
+			"id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "Spain",
+			"sort-name": "Spain",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "1982",
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "Warner Music Spain, S.A.",
+				"name": "Warner Music Spain, S.A.",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "WM Spain",
+				"name": "WM Spain",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		],
+		"tags": [
+			{
+				"count": 1,
+				"name": "revolucion de amor"
+			}
+		]
+	},
+	{
+		"id": "21c873f6-9a63-4124-ab66-298e25dc2bb2",
+		"type": "Production",
+		"type-id": "a2426aab-2dd4-339c-b47d-b4923a241678",
+		"score": 76,
+		"name": "Godz ov War Productions",
+		"sort-name": "Godz ov War Productions",
+		"disambiguation": "Polish extreme metal label",
+		"country": "PL",
+		"area": {
+			"id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "Poland",
+			"sort-name": "Poland",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "2010",
+			"ended": null
+		}
+	},
+	{
+		"id": "ac09fc9b-0f46-4930-bea7-02b4cc77ac40",
+		"score": 76,
+		"name": "Warner Music Brasil",
+		"sort-name": "Warner Music Brasil",
+		"disambiguation": "imprint of Warner Music Brasil Ltda.",
+		"country": "BR",
+		"area": {
+			"id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "Brazil",
+			"sort-name": "Brazil",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "1976",
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "Warner Music Brazil",
+				"name": "Warner Music Brazil",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "Warner Music Brasil Ltda.",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "Warner Music Brasil Ltda.",
+				"locale": "pt",
+				"type": "Label name",
+				"primary": true,
+				"begin-date": "1990",
+				"end-date": null
+			},
+			{
+				"sort-name": "WEA Discos Ltda.",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "WEA Discos Ltda.",
+				"locale": "pt",
+				"type": "Label name",
+				"primary": null,
+				"begin-date": "1976",
+				"end-date": "1990"
+			},
+			{
+				"sort-name": "WM Brazil",
+				"name": "WM Brazil",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		]
+	},
+	{
+		"id": "3730c0ea-3dc2-45c3-ac5c-9d482921ea51",
+		"type": "Imprint",
+		"type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+		"score": 75,
+		"name": "Warner Music",
+		"sort-name": "Warner Music",
+		"disambiguation": "global imprint of Warner Music Group, ‘W’ logo either with “Warner Music” or no text",
+		"life-span": {
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "华纳唱片",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "华纳唱片",
+				"locale": "zh",
+				"type": "Label name",
+				"primary": true,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "华纳音乐",
+				"type-id": "829662f2-a781-3ec8-8b46-fbcea6196f81",
+				"name": "华纳音乐",
+				"locale": null,
+				"type": "Search hint",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		]
+	},
+	{
+		"id": "29d4c4a9-3e05-4d57-9cd1-a7af0556bbd0",
+		"type": "Distributor",
+		"type-id": "53ab8dcc-9946-3b62-966e-7634d78e5034",
+		"score": 74,
+		"name": "X5 Music Group",
+		"sort-name": "X5 Music Group",
+		"area": {
+			"id": "1127ddc2-eab3-4662-8718-6adbdeea3b10",
+			"type": "City",
+			"type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+			"name": "Stockholm",
+			"sort-name": "Stockholm",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "2003",
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "Warner Music Group – X5 Music Group",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "Warner Music Group – X5 Music Group",
+				"locale": null,
+				"type": "Label name",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "X5 Music",
+				"name": "X5 Music",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		],
+		"tags": [
+			{
+				"count": 3,
+				"name": "compilation"
+			}
+		]
+	},
+	{
+		"id": "c4c054e4-9e91-4cd1-b97f-262f5af242c6",
+		"type": "Production",
+		"type-id": "a2426aab-2dd4-339c-b47d-b4923a241678",
+		"score": 74,
+		"name": "War Office Propaganda",
+		"sort-name": "War Office Propaganda",
+		"country": "PL",
+		"area": {
+			"id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "Poland",
+			"sort-name": "Poland",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "2003",
+			"ended": null
+		}
+	},
+	{
+		"id": "640ea9b1-3811-4c06-8897-5918c16f9fe1",
+		"type": "Reissue Production",
+		"type-id": "88ee6ae7-f413-3490-a1d2-54f6a9f0838c",
+		"score": 74,
+		"name": "Warner Strategic Marketing",
+		"sort-name": "Warner Strategic Marketing",
+		"label-code": 2828,
+		"country": "US",
+		"area": {
+			"id": "489ce91b-6658-3307-9877-795b68554c98",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "United States",
+			"sort-name": "United States",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "Warner Strategic Marketing (US)",
+				"name": "Warner Strategic Marketing (US)",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "Warner Strat. Mkt.",
+				"name": "Warner Strat. Mkt.",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "WSM: Warner Strategic Marketing",
+				"name": "WSM: Warner Strategic Marketing",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "Warner Strategic Marketing, Inc.",
+				"name": "Warner Strategic Marketing, Inc.",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		],
+		"tags": [
+			{
+				"count": 1,
+				"name": "eternellement romantique"
+			}
+		]
+	},
+	{
+		"id": "42e06800-76f8-4a5b-a9b6-0983a5d72f17",
+		"type": "Original Production",
+		"type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+		"score": 74,
+		"name": "Jagjaguwar",
+		"sort-name": "Jagjaguwar",
+		"label-code": 29277,
+		"country": "US",
+		"area": {
+			"id": "489ce91b-6658-3307-9877-795b68554c98",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "United States",
+			"sort-name": "United States",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "1996",
+			"ended": null
+		}
+	},
+	{
+		"id": "d0a56a04-97f0-425a-8dff-1e0c7fd9141f",
+		"score": 74,
+		"name": "WAR",
+		"sort-name": "WAR",
+		"disambiguation": "World Alliance of Rollersports",
+		"life-span": {
+			"begin": "1989",
+			"end": "1990",
+			"ended": true
+		}
+	},
+	{
+		"id": "8ad5e6c1-1d79-4c42-9e51-77f9d9791170",
+		"type": "Original Production",
+		"type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+		"score": 73,
+		"name": "W.A.R. Productions",
+		"sort-name": "W.A.R. Productions",
+		"disambiguation": "Austrian record label",
+		"country": "AT",
+		"area": {
+			"id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "Austria",
+			"sort-name": "Austria",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "1999",
+			"ended": null
+		}
+	},
+	{
+		"id": "14340187-1e65-4151-abf2-c14915da8527",
+		"type": "Production",
+		"type-id": "a2426aab-2dd4-339c-b47d-b4923a241678",
+		"score": 73,
+		"name": "WAR Music",
+		"sort-name": "WAR Music",
+		"country": "SE",
+		"area": {
+			"id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "Sweden",
+			"sort-name": "Sweden",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "1997",
+			"ended": true
+		}
+	},
+	{
+		"id": "9c5cba05-bcad-4daa-b58f-fad3197a2148",
+		"type": "Reissue Production",
+		"type-id": "88ee6ae7-f413-3490-a1d2-54f6a9f0838c",
+		"score": 73,
+		"name": "Warner Music UK",
+		"sort-name": "Warner Music UK",
+		"label-code": 14666,
+		"disambiguation": "formerly Warner Records Ltd., a branch of WEA International",
+		"country": "GB",
+		"area": {
+			"id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "United Kingdom",
+			"sort-name": "United Kingdom",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "1970",
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "Warner Music United Kingdom",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "Warner Music United Kingdom",
+				"locale": "en",
+				"type": "Label name",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "WM UK",
+				"name": "WM UK",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		]
+	},
+	{
+		"id": "d354ed78-02af-4263-819a-b52e749a93db",
+		"type": "Production",
+		"type-id": "a2426aab-2dd4-339c-b47d-b4923a241678",
+		"score": 73,
+		"name": "Warner Special Products",
+		"sort-name": "Warner Special Products",
+		"country": "US",
+		"area": {
+			"id": "489ce91b-6658-3307-9877-795b68554c98",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "United States",
+			"sort-name": "United States",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "Warner Special Products Inc.",
+				"name": "Warner Special Products Inc.",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		]
+	},
+	{
+		"id": "0ebf1fa2-3a66-4644-a9c2-80cb9ef3f2c8",
+		"type": "Original Production",
+		"type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+		"score": 72,
+		"name": "Total War",
+		"sort-name": "Total War",
+		"country": "PL",
+		"area": {
+			"id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "Poland",
+			"sort-name": "Poland",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"ended": null
+		}
+	},
+	{
+		"id": "7306f7ec-97d1-45d8-bda5-d51c5c901b4c",
+		"type": "Imprint",
+		"type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+		"score": 72,
+		"name": "Warner Music Canada",
+		"sort-name": "Warner Music Canada",
+		"disambiguation": "imprint of Warner Music Canada Co.",
+		"country": "CA",
+		"area": {
+			"id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "Canada",
+			"sort-name": "Canada",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "Warner Music Canada",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "Warner Music Canada",
+				"locale": "en",
+				"type": "Label name",
+				"primary": true,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "WM Canada",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "WM Canada",
+				"locale": null,
+				"type": "Label name",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		],
+		"tags": [
+			{
+				"count": 1,
+				"name": "record label"
+			},
+			{
+				"count": 1,
+				"name": "distributor"
+			}
+		]
+	},
+	{
+		"id": "d3690ecc-d220-4017-82d1-145bb2339d51",
+		"type": "Original Production",
+		"type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+		"score": 71,
+		"name": "Warner Music Hong Kong",
+		"sort-name": "Warner Music Hong Kong",
+		"country": "HK",
+		"area": {
+			"id": "0373cdff-eac8-3fbc-92dc-36a607da06d1",
+			"type": "Subdivision",
+			"type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+			"name": "Hong Kong",
+			"sort-name": "Hong Kong",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "WM Hong Kong",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "WM Hong Kong",
+				"locale": null,
+				"type": "Label name",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "Warner Music Hong Kong",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "Warner Music Hong Kong",
+				"locale": "en",
+				"type": "Label name",
+				"primary": null,
+				"begin-date": "1990",
+				"end-date": null
+			},
+			{
+				"sort-name": "Warner Music Hong Kong",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "Warner Music Hong Kong",
+				"locale": "en",
+				"type": "Label name",
+				"primary": null,
+				"begin-date": "1990",
+				"end-date": null
+			},
+			{
+				"sort-name": "華納",
+				"name": "華納",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "華納唱片",
+				"name": "華納唱片",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "WEA Records Hong Kong",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "WEA Records Hong Kong",
+				"locale": "en",
+				"type": "Label name",
+				"primary": null,
+				"begin-date": "1978",
+				"end-date": "1990"
+			}
+		],
+		"tags": [
+			{
+				"count": 2,
+				"name": "cantopop"
+			}
+		]
+	},
+	{
+		"id": "9c1d2d6b-1727-4bdb-9920-a8e0c1cc62cf",
+		"score": 71,
+		"name": "War Dog",
+		"sort-name": "War Dog",
+		"life-span": {
+			"ended": null
+		}
+	},
+	{
+		"id": "889bc5e9-c41c-4e01-85fd-74e9582ed965",
+		"score": 71,
+		"name": "War Child",
+		"sort-name": "War Child",
+		"country": "GB",
+		"area": {
+			"id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "United Kingdom",
+			"sort-name": "United Kingdom",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "1993",
+			"ended": null
+		},
+		"tags": [
+			{
+				"count": 1,
+				"name": "charity"
+			}
+		]
+	},
+	{
+		"id": "30d5acae-ae46-4689-9a91-99293a55e95e",
+		"type": "Imprint",
+		"type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+		"score": 71,
+		"name": "Warner Music Italy",
+		"sort-name": "Warner Music Italy",
+		"disambiguation": "imprint of Warner Music Italia S.r.l.",
+		"country": "IT",
+		"area": {
+			"id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "Italy",
+			"sort-name": "Italy",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "1989",
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "Warner Music Italy",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "Warner Music Italy",
+				"locale": null,
+				"type": "Label name",
+				"primary": null,
+				"begin-date": "1990",
+				"end-date": null
+			},
+			{
+				"sort-name": "WEA Italiana SpA",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "WEA Italiana SpA",
+				"locale": null,
+				"type": "Label name",
+				"primary": null,
+				"begin-date": "1975",
+				"end-date": "1990"
+			},
+			{
+				"sort-name": "WM Italy",
+				"name": "WM Italy",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		]
+	},
+	{
+		"id": "f52374e5-c8a7-4bb9-a509-0cdc38c97276",
+		"score": 70,
+		"name": "World Alchemist Records",
+		"sort-name": "World Alchemist Records",
+		"disambiguation": "French electro/tekno label",
+		"life-span": {
+			"begin": "1997",
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "W.A.R",
+				"name": "W.A.R",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		]
+	},
+	{
+		"id": "a3928664-32c8-4554-9401-ce22e226ea5a",
+		"type": "Distributor",
+		"type-id": "53ab8dcc-9946-3b62-966e-7634d78e5034",
+		"score": 70,
+		"name": "Warner Music Russia",
+		"sort-name": "Warner Music Russia",
+		"country": "RU",
+		"area": {
+			"id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "Russia",
+			"sort-name": "Russia",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "2013",
+			"end": "2022-03-10",
+			"ended": true
+		},
+		"aliases": [
+			{
+				"sort-name": "Уорнер Мьюзик Россия",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "Уорнер Мьюзик Россия",
+				"locale": "ru",
+				"type": "Label name",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "WM Russia",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "WM Russia",
+				"locale": "en",
+				"type": "Label name",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "WMR",
+				"type-id": "829662f2-a781-3ec8-8b46-fbcea6196f81",
+				"name": "WMR",
+				"locale": null,
+				"type": "Search hint",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "Warner Music Россия",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "Warner Music Россия",
+				"locale": null,
+				"type": "Label name",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		]
+	},
+	{
+		"id": "bba336ca-9c7f-462e-99e6-72397a1d905a",
+		"type": "Original Production",
+		"type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+		"score": 70,
+		"name": "W.A.R. Media",
+		"sort-name": "W.A.R. Media",
+		"country": "US",
+		"area": {
+			"id": "489ce91b-6658-3307-9877-795b68554c98",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "United States",
+			"sort-name": "United States",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "We Are Renegades Media",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "We Are Renegades Media",
+				"locale": null,
+				"type": "Label name",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		],
+		"tags": [
+			{
+				"count": 2,
+				"name": "hip hop"
+			},
+			{
+				"count": 0,
+				"name": "hip-hop"
+			}
+		]
+	},
+	{
+		"id": "1e82c953-3cb5-46ad-a4ea-0abdb4de667c",
+		"type": "Original Production",
+		"type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+		"score": 70,
+		"name": "War on Music",
+		"sort-name": "War on Music",
+		"area": {
+			"id": "35307acf-aba0-4ca7-9df6-b9398d873a8f",
+			"type": "City",
+			"type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+			"name": "Winnipeg",
+			"sort-name": "Winnipeg",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"ended": null
+		}
+	},
+	{
+		"id": "1a389db2-f8ee-4cd1-a8cd-4132113c5e5a",
+		"score": 70,
+		"name": "War Against Yourself Records",
+		"sort-name": "War Against Yourself Records",
+		"country": "IT",
+		"area": {
+			"id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "Italy",
+			"sort-name": "Italy",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"ended": null
+		}
+	},
+	{
+		"id": "de51a23a-02b1-4737-aa3f-bf1483a765a1",
+		"type": "Imprint",
+		"type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+		"score": 70,
+		"name": "Warner Music Taiwan",
+		"sort-name": "Warner Music Taiwan",
+		"country": "TW",
+		"area": {
+			"id": "41637cec-9a4f-389c-86d2-fc6abf3357b5",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "Taiwan",
+			"sort-name": "Taiwan",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "台灣華納音樂",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "台灣華納音樂",
+				"locale": "zh_Hant_TW",
+				"type": "Label name",
+				"primary": true,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "華納音樂",
+				"type-id": "829662f2-a781-3ec8-8b46-fbcea6196f81",
+				"name": "華納音樂",
+				"locale": null,
+				"type": "Search hint",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "Warner Music Taiwan",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "Warner Music Taiwan",
+				"locale": "en",
+				"type": "Label name",
+				"primary": true,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "WM Taiwan",
+				"type-id": "829662f2-a781-3ec8-8b46-fbcea6196f81",
+				"name": "WM Taiwan",
+				"locale": null,
+				"type": "Search hint",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		],
+		"tags": [
+			{
+				"count": 1,
+				"name": "mandopop"
+			}
+		]
+	},
+	{
+		"id": "41930abf-17d6-4ad6-99b9-01192d81b948",
+		"type": "Imprint",
+		"type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+		"score": 69,
+		"name": "Warner Music Benelux",
+		"sort-name": "Warner Music Benelux",
+		"label-code": 4281,
+		"disambiguation": "imprint of Warner Music Benelux BV and Warner Music Benelux NV",
+		"life-span": {
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "Warner Music Benelux NV",
+				"name": "Warner Music Benelux NV",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "Warner Music Benelux N.V.",
+				"name": "Warner Music Benelux N.V.",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		]
+	},
+	{
+		"id": "c0c26ba8-1d5a-4660-84dd-61f8d75c5e63",
+		"score": 69,
+		"name": "War Arts Productions",
+		"sort-name": "War Arts Productions",
+		"country": "PT",
+		"area": {
+			"id": "781b0c54-3d54-362d-a941-8a617def4992",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "Portugal",
+			"sort-name": "Portugal",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"ended": null
+		}
+	},
+	{
+		"id": "bf47d804-2f1a-4b4c-be34-ff7fbfc4f69b",
+		"type": "Imprint",
+		"type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+		"score": 69,
+		"name": "Warner Music Nashville",
+		"sort-name": "Warner Music Nashville",
+		"life-span": {
+			"end": "2025-11-11",
+			"ended": true
+		}
+	},
+	{
+		"id": "1eea3f89-5d49-4470-a58c-52c97cc44db5",
+		"type": "Production",
+		"type-id": "a2426aab-2dd4-339c-b47d-b4923a241678",
+		"score": 69,
+		"name": "MPS",
+		"sort-name": "MPS",
+		"label-code": 979,
+		"disambiguation": "German jazz label",
+		"country": "DE",
+		"area": {
+			"id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "Germany",
+			"sort-name": "Germany",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "1968",
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "Most Perfect Sound",
+				"name": "Most Perfect Sound",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "MPS Records",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "MPS Records",
+				"locale": null,
+				"type": "Label name",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "Musik Produktion Schwarzwald",
+				"name": "Musik Produktion Schwarzwald",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "MPS (Universal)",
+				"name": "MPS (Universal)",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		],
+		"tags": [
+			{
+				"count": 1,
+				"name": "jazz"
+			}
+		]
+	},
+	{
+		"id": "05538df7-bd3e-4c0b-a857-059c9b312070",
+		"score": 68,
+		"name": "Wyrd War",
+		"sort-name": "Wyrd War",
+		"life-span": {
+			"ended": null
+		}
+	},
+	{
+		"id": "874425eb-0a46-48a2-9aa4-01254dc807bc",
+		"type": "Distributor",
+		"type-id": "53ab8dcc-9946-3b62-966e-7634d78e5034",
+		"score": 68,
+		"name": "Warner Music Philippines",
+		"sort-name": "Warner Music Philippines",
+		"country": "PH",
+		"area": {
+			"id": "786532a5-2e36-315a-bdf2-221dc1b64b72",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "Philippines",
+			"sort-name": "Philippines",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"ended": null
+		},
+		"tags": [
+			{
+				"count": 1,
+				"name": "christmas music"
+			}
+		]
+	},
+	{
+		"id": "f1e5041f-a6d0-4de9-a5ac-6fb425a2b13d",
+		"type": "Distributor",
+		"type-id": "53ab8dcc-9946-3b62-966e-7634d78e5034",
+		"score": 68,
+		"name": "Warner Music Korea",
+		"sort-name": "Warner Music Korea",
+		"country": "KR",
+		"area": {
+			"id": "b9f7d640-46e8-313e-b158-ded6d18593b3",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "South Korea",
+			"sort-name": "South Korea",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "1989",
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "WM Korea",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "WM Korea",
+				"locale": null,
+				"type": "Label name",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "Warner Music Korea",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "Warner Music Korea",
+				"locale": "en",
+				"type": "Label name",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "워너뮤직코리아",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "워너뮤직코리아",
+				"locale": "ko_KR",
+				"type": "Label name",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "WMK",
+				"type-id": "829662f2-a781-3ec8-8b46-fbcea6196f81",
+				"name": "WMK",
+				"locale": null,
+				"type": "Search hint",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		]
+	},
+	{
+		"id": "2230656c-6849-4944-bdb6-2180f8ea8f0c",
+		"type": "Original Production",
+		"type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+		"score": 68,
+		"name": "Tribal War Records",
+		"sort-name": "Tribal War Records",
+		"country": "US",
+		"area": {
+			"id": "489ce91b-6658-3307-9877-795b68554c98",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "United States",
+			"sort-name": "United States",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"ended": null
+		}
+	},
+	{
+		"id": "92ff2893-6ce0-402f-b662-7ae0811f44ff",
+		"type": "Original Production",
+		"type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+		"score": 68,
+		"name": "War & Audio",
+		"sort-name": "War & Audio",
+		"label-code": 51030,
+		"disambiguation": "Extreme Music label [WAA#]",
+		"country": "GB",
+		"area": {
+			"id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "United Kingdom",
+			"sort-name": "United Kingdom",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"ended": null
+		}
+	},
+	{
+		"id": "419c8b31-aa42-4a5d-ba4b-e3bab8fd583a",
+		"score": 68,
+		"name": "Ward Records",
+		"sort-name": "Ward Records",
+		"country": "JP",
+		"area": {
+			"id": "2db42837-c832-3c27-b4a3-08198f75693c",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "Japan",
+			"sort-name": "Japan",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "2002",
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "ワードレコーズ",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "ワードレコーズ",
+				"locale": "ja",
+				"type": "Label name",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		]
+	},
+	{
+		"id": "0cc9cf8e-adbc-438a-9169-92dfa447652d",
+		"type": "Imprint",
+		"type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+		"score": 68,
+		"name": "Warner Music Latina",
+		"sort-name": "Warner Music Latina",
+		"disambiguation": "imprint of Warner Music Latina, formerly WEA Music Latina",
+		"country": "US",
+		"area": {
+			"id": "489ce91b-6658-3307-9877-795b68554c98",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "United States",
+			"sort-name": "United States",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "2001-12-03",
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "Warner Musica Latina",
+				"name": "Warner Musica Latina",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		]
+	},
+	{
+		"id": "7660d172-7f37-46a8-99c8-be85a5bb58fd",
+		"score": 68,
+		"name": "Warner Special Marketing",
+		"sort-name": "Warner Special Marketing",
+		"label-code": 3708,
+		"disambiguation": "Germany",
+		"country": "DE",
+		"area": {
+			"id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "Germany",
+			"sort-name": "Germany",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "Warner Special Marketing GmbH",
+				"name": "Warner Special Marketing GmbH",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "WSM",
+				"name": "WSM",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		]
+	},
+	{
+		"id": "bb2b38b6-0a26-4a35-b230-bc8940cbe520",
+		"score": 67,
+		"name": "War Extension",
+		"sort-name": "War Extension",
+		"life-span": {
+			"ended": null
+		}
+	},
+	{
+		"id": "a0744acd-6e73-49ae-ad45-240e2e5a218e",
+		"type": "Original Production",
+		"type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+		"score": 67,
+		"name": "War Discos",
+		"sort-name": "War Discos",
+		"disambiguation": "Chilean label",
+		"country": "CL",
+		"area": {
+			"id": "82d5f4d6-aed4-3ff5-81d1-5363ac6e97a7",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "Chile",
+			"sort-name": "Chile",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"ended": null
+		}
+	},
+	{
+		"id": "93c32583-8fe1-478a-ba07-6e6679f1585f",
+		"type": "Distributor",
+		"type-id": "53ab8dcc-9946-3b62-966e-7634d78e5034",
+		"score": 67,
+		"name": "Warner Music México",
+		"sort-name": "Warner Music México",
+		"country": "MX",
+		"area": {
+			"id": "3e08b2cd-69f3-317c-b1e4-e71be581839e",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "Mexico",
+			"sort-name": "Mexico",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "WM México",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "WM México",
+				"locale": null,
+				"type": "Label name",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "WM Mexico",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "WM Mexico",
+				"locale": null,
+				"type": "Label name",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		]
+	},
+	{
+		"id": "b393c927-d364-4cf7-96b7-63d4d4ada8b2",
+		"score": 67,
+		"name": "Warner",
+		"sort-name": "Warner",
+		"disambiguation": "imprint of Warner; a “W” logo with “WARNER” text under it",
+		"life-span": {
+			"ended": null
+		},
+		"tags": [
+			{
+				"count": 1,
+				"name": "madonna"
+			}
+		]
+	},
+	{
+		"id": "75778896-b3ac-4a0f-b3be-b8621ef9bf7a",
+		"type": "Distributor",
+		"type-id": "53ab8dcc-9946-3b62-966e-7634d78e5034",
+		"score": 67,
+		"name": "Warner Music Central Europe",
+		"sort-name": "Warner Music Central Europe",
+		"label-code": 14666,
+		"disambiguation": "valid for release label use, but is also a distributor",
+		"area": {
+			"id": "11a44e18-a2e5-43a9-bee9-aa4f7c83f967",
+			"type": "City",
+			"type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+			"name": "Hamburg",
+			"sort-name": "Hamburg",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "2013-05",
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "WMCE",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "WMCE",
+				"locale": null,
+				"type": "Label name",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		]
+	},
+	{
+		"id": "b310b9e1-37c3-40fa-b723-c66f31f068bb",
+		"type": "Imprint",
+		"type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+		"score": 67,
+		"name": "Warner Music New Zealand",
+		"sort-name": "Warner Music New Zealand",
+		"country": "NZ",
+		"area": {
+			"id": "8524c7d9-f472-3890-a458-f28d5081d9c4",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "New Zealand",
+			"sort-name": "New Zealand",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "WM New Zealand",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "WM New Zealand",
+				"locale": null,
+				"type": "Label name",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "Warner Music NZ Ltd.",
+				"name": "Warner Music NZ Ltd.",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "Warner Music New Zealand Ltd.",
+				"name": "Warner Music New Zealand Ltd.",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "Warner Music NZ",
+				"type-id": "829662f2-a781-3ec8-8b46-fbcea6196f81",
+				"name": "Warner Music NZ",
+				"locale": null,
+				"type": "Search hint",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		]
+	},
+	{
+		"id": "b8d328a7-6450-4d13-9108-21773d10ca33",
+		"type": "Original Production",
+		"type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+		"score": 66,
+		"name": "Warner Bros. Home Entertainment",
+		"sort-name": "Warner Bros. Home Entertainment",
+		"disambiguation": "Japanese anime/music label, 2014–⁠present",
+		"country": "JP",
+		"area": {
+			"id": "2db42837-c832-3c27-b4a3-08198f75693c",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "Japan",
+			"sort-name": "Japan",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "2014-07",
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "ワーナー・ホーム・ビデオ",
+				"type-id": "829662f2-a781-3ec8-8b46-fbcea6196f81",
+				"name": "ワーナー・ホーム・ビデオ",
+				"locale": null,
+				"type": "Search hint",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "ワーナー・ブラザース・ホームエンターテイメント",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "ワーナー・ブラザース・ホームエンターテイメント",
+				"locale": "ja",
+				"type": "Label name",
+				"primary": true,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "ワーナー エンターテイメント",
+				"type-id": "829662f2-a781-3ec8-8b46-fbcea6196f81",
+				"name": "ワーナー エンターテイメント",
+				"locale": null,
+				"type": "Search hint",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "ワーナー ブラザース ジャパン",
+				"type-id": "829662f2-a781-3ec8-8b46-fbcea6196f81",
+				"name": "ワーナー ブラザース ジャパン",
+				"locale": null,
+				"type": "Search hint",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "Warner Bros. Home Entertainment Japan",
+				"name": "Warner Bros. Home Entertainment Japan",
+				"locale": "en",
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "WHV",
+				"type-id": "829662f2-a781-3ec8-8b46-fbcea6196f81",
+				"name": "WHV",
+				"locale": null,
+				"type": "Search hint",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "ワーナー・ブラザース ホームエンターテイメント",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "ワーナー・ブラザース ホームエンターテイメント",
+				"locale": "ja",
+				"type": "Label name",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		]
+	},
+	{
+		"id": "fa80ff7c-baad-45ae-b031-076e4aa02205",
+		"type": "Original Production",
+		"type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+		"score": 66,
+		"name": "Louder Than War",
+		"sort-name": "Louder Than War",
+		"country": "GB",
+		"area": {
+			"id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "United Kingdom",
+			"sort-name": "United Kingdom",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "2012",
+			"ended": null
+		}
+	},
+	{
+		"id": "9339a53a-70c2-414d-9a48-0c9f41ce7503",
+		"type": "Bootleg Production",
+		"type-id": "fdac9b96-359b-3488-9322-ad99c2473636",
+		"score": 66,
+		"name": "Warped Records",
+		"sort-name": "Warped Records",
+		"disambiguation": "US country reissue",
+		"life-span": {
+			"ended": null
+		}
+	},
+	{
+		"id": "628cfba7-1731-4f71-bd25-59dc2b3c049b",
+		"type": "Original Production",
+		"type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+		"score": 66,
+		"name": "Aum War",
+		"sort-name": "Aum War",
+		"life-span": {
+			"ended": null
+		}
+	},
+	{
+		"id": "58306820-fb8d-4654-86b5-c9df4a8ba49f",
+		"type": "Publisher",
+		"type-id": "e9ad53b0-e3d0-3885-a10b-8193d501338c",
+		"score": 66,
+		"name": "War Bride",
+		"sort-name": "War Bride",
+		"ipis": [
+			"00128412592"
+		],
+		"country": "US",
+		"area": {
+			"id": "489ce91b-6658-3307-9877-795b68554c98",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "United States",
+			"sort-name": "United States",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"ended": null
+		}
+	},
+	{
+		"id": "d521583e-7fa6-4d0c-8a2b-84311d8908cb",
+		"type": "Original Production",
+		"type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+		"score": 66,
+		"name": "Renegade Hardware",
+		"sort-name": "Renegade Hardware",
+		"country": "GB",
+		"area": {
+			"id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "United Kingdom",
+			"sort-name": "United Kingdom",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "1995",
+			"ended": null
+		},
+		"tags": [
+			{
+				"count": 4,
+				"name": "drum and bass"
+			},
+			{
+				"count": 1,
+				"name": "uk"
+			},
+			{
+				"count": 2,
+				"name": "jungle"
+			}
+		]
+	},
+	{
+		"id": "fe178170-b252-47ed-9f4d-cb2217089494",
+		"type": "Original Production",
+		"type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+		"score": 65,
+		"name": "Aware Records",
+		"sort-name": "Aware Records",
+		"country": "US",
+		"area": {
+			"id": "489ce91b-6658-3307-9877-795b68554c98",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "United States",
+			"sort-name": "United States",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "1993",
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "Aware/Columbia",
+				"type-id": "829662f2-a781-3ec8-8b46-fbcea6196f81",
+				"name": "Aware/Columbia",
+				"locale": null,
+				"type": "Search hint",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		]
+	},
+	{
+		"id": "e17b800e-20d8-4ca5-a254-4de5148f66b5",
+		"score": 65,
+		"name": "War Hammer Records",
+		"sort-name": "War Hammer Records",
+		"country": "US",
+		"area": {
+			"id": "489ce91b-6658-3307-9877-795b68554c98",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "United States",
+			"sort-name": "United States",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"ended": null
+		}
+	},
+	{
+		"id": "e7e26981-ff85-4e83-a972-8cdef6f78447",
+		"score": 65,
+		"name": "Warner Music Norway",
+		"sort-name": "Warner Music Norway",
+		"disambiguation": "branding of Warner Music Norway AS",
+		"country": "NO",
+		"area": {
+			"id": "6743d351-6f37-3049-9724-5041161fff4d",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "Norway",
+			"sort-name": "Norway",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "WM Norway",
+				"name": "WM Norway",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		]
+	},
+	{
+		"id": "b35c120a-307b-4d49-90fe-697d73847b74",
+		"type": "Original Production",
+		"type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+		"score": 65,
+		"name": "World War III",
+		"sort-name": "World War III",
+		"area": {
+			"id": "a93d4bb1-a102-4ab3-8d0e-f0391a8ffa43",
+			"type": "City",
+			"type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+			"name": "Downey",
+			"sort-name": "Downey",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"ended": true
+		},
+		"aliases": [
+			{
+				"sort-name": "WWWIII Music",
+				"name": "WWWIII Music",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "WWIII",
+				"name": "WWIII",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		]
+	},
+	{
+		"id": "50a670ed-7e07-4b92-a434-bc59252997ab",
+		"score": 65,
+		"name": "War Kommand Productions",
+		"sort-name": "War Kommand Productions",
+		"life-span": {
+			"ended": null
+		}
+	},
+	{
+		"id": "4d269499-97c9-439b-8f5b-9518d25a222e",
+		"type": "Publisher",
+		"type-id": "e9ad53b0-e3d0-3885-a10b-8193d501338c",
+		"score": 65,
+		"name": "Warner Music Czech Republic",
+		"sort-name": "Warner Music Czech Republic",
+		"country": "CZ",
+		"area": {
+			"id": "51d34c28-61bf-3d21-849f-7492672a9d44",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "Czechia",
+			"sort-name": "Czechia",
+			"life-span": {
+				"begin": "1993-01-01",
+				"ended": null
+			}
+		},
+		"life-span": {
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "Warner Music Czech Republic",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "Warner Music Czech Republic",
+				"locale": "en",
+				"type": "Label name",
+				"primary": true,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "WM Czech Republic",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "WM Czech Republic",
+				"locale": null,
+				"type": "Label name",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		]
+	},
+	{
+		"id": "54532d00-6ab9-4b4c-8a78-999d13ffd02e",
+		"type": "Original Production",
+		"type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+		"score": 65,
+		"name": "Forward Music",
+		"sort-name": "Forward Music",
+		"disambiguation": "Taiwanese",
+		"country": "TW",
+		"area": {
+			"id": "41637cec-9a4f-389c-86d2-fc6abf3357b5",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "Taiwan",
+			"sort-name": "Taiwan",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "丰华唱片",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "丰华唱片",
+				"locale": "zh_Hans",
+				"type": "Label name",
+				"primary": true,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "豐華唱片",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "豐華唱片",
+				"locale": "zh_Hant",
+				"type": "Label name",
+				"primary": true,
+				"begin-date": null,
+				"end-date": null
+			}
+		],
+		"tags": [
+			{
+				"count": 1,
+				"name": "hello project"
+			}
+		]
+	},
+	{
+		"id": "dbd1d993-fe78-4ada-90fc-0e46083c1a0e",
+		"type": "Original Production",
+		"type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+		"score": 64,
+		"name": "Warlock Records",
+		"sort-name": "Warlock Records",
+		"area": {
+			"id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+			"type": "City",
+			"type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+			"name": "New York",
+			"sort-name": "New York",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "1985",
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "Warlock Records, Inc.",
+				"name": "Warlock Records, Inc.",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		]
+	},
+	{
+		"id": "3f2928db-91b0-406f-bf53-166ab48ce70f",
+		"type": "Original Production",
+		"type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+		"score": 64,
+		"name": "Creative Class War",
+		"sort-name": "Creative Class War",
+		"country": "FI",
+		"area": {
+			"id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "Finland",
+			"sort-name": "Finland",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "2007",
+			"ended": null
+		}
+	},
+	{
+		"id": "f8083bcc-00ba-46c5-8e25-698123420991",
+		"score": 64,
+		"name": "War Crime Recordings",
+		"sort-name": "War Crime Recordings",
+		"area": {
+			"id": "29a709d8-0320-493e-8d0c-f2c386662b7f",
+			"type": "City",
+			"type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+			"name": "Chicago",
+			"sort-name": "Chicago",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"ended": null
+		}
+	},
+	{
+		"id": "a59ce298-20da-4bc2-9fcb-c3f3a1f2462e",
+		"score": 64,
+		"name": "Pagan War Distro",
+		"sort-name": "Pagan War Distro",
+		"disambiguation": "South America Black Metal Elite",
+		"country": "BR",
+		"area": {
+			"id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "Brazil",
+			"sort-name": "Brazil",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "2010",
+			"ended": null
+		}
+	},
+	{
+		"id": "ba8fb020-85ae-454c-984c-6f5c38d59120",
+		"type": "Original Production",
+		"type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+		"score": 64,
+		"name": "Midi War",
+		"sort-name": "Midi War",
+		"country": "DE",
+		"area": {
+			"id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "Germany",
+			"sort-name": "Germany",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"ended": null
+		}
+	},
+	{
+		"id": "1fae92e0-5a9c-4160-9abe-04a43adf9fe3",
+		"type": "Original Production",
+		"type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+		"score": 64,
+		"name": "War Dubz",
+		"sort-name": "War Dubz",
+		"country": "GB",
+		"area": {
+			"id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "United Kingdom",
+			"sort-name": "United Kingdom",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"ended": null
+		}
+	},
+	{
+		"id": "e7622b8e-62ac-448b-8738-7d85d3ae437d",
+		"score": 64,
+		"name": "Eternal War",
+		"sort-name": "Eternal War",
+		"life-span": {
+			"ended": null
+		}
+	},
+	{
+		"id": "27726773-1844-4fe1-8ce5-eac4983775e5",
+		"score": 64,
+		"name": "War Records",
+		"sort-name": "War Records",
+		"disambiguation": "Irish label?",
+		"life-span": {
+			"ended": null
+		}
+	},
+	{
+		"id": "793b20e3-92cc-42dd-a215-6288a31cfa58",
+		"type": "Distributor",
+		"type-id": "53ab8dcc-9946-3b62-966e-7634d78e5034",
+		"score": 64,
+		"name": "War Vellum",
+		"sort-name": "War Vellum",
+		"life-span": {
+			"ended": null
+		}
+	},
+	{
+		"id": "73f35dee-7442-4f0b-998d-f9aa987aea05",
+		"score": 64,
+		"name": "War Machine",
+		"sort-name": "War Machine",
+		"disambiguation": "War Metal lable",
+		"life-span": {
+			"ended": null
+		}
+	},
+	{
+		"id": "9481140f-927b-4cca-9f4f-87bd18b56be5",
+		"type": "Original Production",
+		"type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+		"score": 64,
+		"name": "Warner Music Poland",
+		"sort-name": "Warner Music Poland",
+		"country": "PL",
+		"area": {
+			"id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "Poland",
+			"sort-name": "Poland",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "1994",
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "WM Poland - WMI",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "WM Poland - WMI",
+				"locale": null,
+				"type": "Label name",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "WM Poland",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "WM Poland",
+				"locale": null,
+				"type": "Label name",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		],
+		"tags": [
+			{
+				"count": 1,
+				"name": "poland"
+			},
+			{
+				"count": 1,
+				"name": "polish"
+			},
+			{
+				"count": 1,
+				"name": "rap"
+			},
+			{
+				"count": 1,
+				"name": "polish pop"
+			},
+			{
+				"count": 1,
+				"name": "pop"
+			},
+			{
+				"count": 1,
+				"name": "polish hip hop"
+			},
+			{
+				"count": 1,
+				"name": "hip hop"
+			},
+			{
+				"count": 1,
+				"name": "polish rap"
+			}
+		]
+	},
+	{
+		"id": "63366491-8148-4416-b774-6c1c1b85653e",
+		"type": "Production",
+		"type-id": "a2426aab-2dd4-339c-b47d-b4923a241678",
+		"score": 64,
+		"name": "At War With False Noise",
+		"sort-name": "At War With False Noise",
+		"area": {
+			"id": "c279f805-01f8-46f5-99cf-51f165a1adad",
+			"type": "City",
+			"type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+			"name": "Glasgow",
+			"sort-name": "Glasgow",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"ended": null
+		}
+	},
+	{
+		"id": "29910c68-a655-4054-b933-da75d8f82bdf",
+		"score": 64,
+		"name": "Warner Strategic Marketing Germany",
+		"sort-name": "Warner Strategic Marketing Germany",
+		"label-code": 3708,
+		"disambiguation": "subsidiary of Warner Music Group Germany Holding GmbH",
+		"country": "DE",
+		"area": {
+			"id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "Germany",
+			"sort-name": "Germany",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "WSM",
+				"name": "WSM",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "Warner Strategic Marketing GmbH",
+				"name": "Warner Strategic Marketing GmbH",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		]
+	},
+	{
+		"id": "25cd980e-5bd9-430d-868d-37b63fa9573e",
+		"type": "Original Production",
+		"type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+		"score": 64,
+		"name": "It’s War Boys",
+		"sort-name": "It’s War Boys",
+		"area": {
+			"id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+			"type": "City",
+			"type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+			"name": "London",
+			"sort-name": "London",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "1979",
+			"ended": null
+		}
+	},
+	{
+		"id": "cf8fb3cf-5a40-4fe7-80b4-93cc2162071d",
+		"type": "Holding",
+		"type-id": "43f31a62-97e4-36f6-9752-453c131b71ed",
+		"score": 64,
+		"name": "Warner–Pioneer Corporation",
+		"sort-name": "Warner–Pioneer Corporation",
+		"disambiguation": "Japanese holding company, 1972–1991",
+		"country": "JP",
+		"area": {
+			"id": "2db42837-c832-3c27-b4a3-08198f75693c",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "Japan",
+			"sort-name": "Japan",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "1972",
+			"end": "1991",
+			"ended": true
+		},
+		"aliases": [
+			{
+				"sort-name": "ワーナー・パイオニア",
+				"name": "ワーナー・パイオニア",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "ワーナーブラザーズパイオニア",
+				"name": "ワーナーブラザーズパイオニア",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "ワーナー・ブラザーズ・パイオニア",
+				"name": "ワーナー・ブラザーズ・パイオニア",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "Warner-Pioneer Corp.",
+				"name": "Warner-Pioneer Corp.",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		],
+		"tags": [
+			{
+				"count": 1,
+				"name": "clean up"
+			}
+		]
+	},
+	{
+		"id": "f9e6d07d-fbfe-43c8-885e-e3bf5bed0a59",
+		"type": "Original Production",
+		"type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+		"score": 63,
+		"name": "Kitchenware Records",
+		"sort-name": "Kitchenware Records",
+		"area": {
+			"id": "80a26267-4f75-4976-ae82-aad848ec096a",
+			"type": "City",
+			"type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+			"name": "Newcastle upon Tyne",
+			"sort-name": "Newcastle upon Tyne",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "1982",
+			"ended": null
+		},
+		"tags": [
+			{
+				"count": 1,
+				"name": "uk"
+			},
+			{
+				"count": 1,
+				"name": "post-punk revival"
+			},
+			{
+				"count": 1,
+				"name": "britannique"
+			},
+			{
+				"count": 1,
+				"name": "british"
+			},
+			{
+				"count": 1,
+				"name": "indie rock"
+			}
+		]
+	},
+	{
+		"id": "ede54a99-154f-4805-9ab2-5877adf41b65",
+		"type": "Bootleg Production",
+		"type-id": "fdac9b96-359b-3488-9322-ad99c2473636",
+		"score": 63,
+		"name": "World Artists Recordings",
+		"sort-name": "World Artists Recordings",
+		"life-span": {
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "W.A.R",
+				"type-id": "829662f2-a781-3ec8-8b46-fbcea6196f81",
+				"name": "W.A.R",
+				"locale": null,
+				"type": "Search hint",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		]
+	},
+	{
+		"id": "a21dc3d2-33da-4e5c-bc6d-d978052712a8",
+		"type": "Original Production",
+		"type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+		"score": 63,
+		"name": "Downwards",
+		"sort-name": "Downwards",
+		"area": {
+			"id": "226c4dca-ef2a-4d4b-ba25-4118d116557a",
+			"type": "City",
+			"type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+			"name": "Birmingham",
+			"sort-name": "Birmingham",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "1993",
+			"ended": null
+		},
+		"tags": [
+			{
+				"count": 1,
+				"name": "electronic"
+			},
+			{
+				"count": 1,
+				"name": "techno"
+			},
+			{
+				"count": 1,
+				"name": "industrial techno"
+			},
+			{
+				"count": 2,
+				"name": "birmingham sound"
+			}
+		]
+	},
+	{
+		"id": "990c290b-6b7d-4ca4-a5c8-cc61587db153",
+		"type": "Original Production",
+		"type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+		"score": 63,
+		"name": "679",
+		"sort-name": "679",
+		"label-code": 4281,
+		"area": {
+			"id": "9d5dd675-3cf4-4296-9e39-67865ebee758",
+			"type": "Subdivision",
+			"type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+			"name": "England",
+			"sort-name": "England",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "2001-06-11",
+			"end": "2013",
+			"ended": true
+		},
+		"aliases": [
+			{
+				"sort-name": "679/Warners",
+				"name": "679/Warners",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "679 Recordings Ltd.",
+				"name": "679 Recordings Ltd.",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "679 Recordings UK. Ltd.",
+				"name": "679 Recordings UK. Ltd.",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "679 Recordings US",
+				"name": "679 Recordings US",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "679 Artists",
+				"name": "679 Artists",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			},
+			{
+				"sort-name": "679",
+				"name": "679",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		]
+	},
+	{
+		"id": "c74b1f16-ebf8-4cda-a9fc-dd25120ad27a",
+		"type": "Original Production",
+		"type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+		"score": 63,
+		"name": "Timewarp",
+		"sort-name": "Timewarp",
+		"disambiguation": "US Goa trance label",
+		"area": {
+			"id": "83f22bb6-4631-443c-bace-9fae8540362a",
+			"type": "City",
+			"type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+			"name": "San Francisco",
+			"sort-name": "San Francisco",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "2013",
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "Timewarp Records",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "Timewarp Records",
+				"locale": null,
+				"type": "Label name",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		],
+		"tags": [
+			{
+				"count": 1,
+				"name": "trance"
+			},
+			{
+				"count": 1,
+				"name": "electronic"
+			},
+			{
+				"count": 1,
+				"name": "psytrance"
+			},
+			{
+				"count": 1,
+				"name": "goa"
+			},
+			{
+				"count": 1,
+				"name": "psychedelic"
+			},
+			{
+				"count": 1,
+				"name": "goa trance"
+			},
+			{
+				"count": 1,
+				"name": "psy-trance"
+			}
+		]
+	},
+	{
+		"id": "262eee9c-7ed2-401d-a02d-5a03bf85c377",
+		"type": "Distributor",
+		"type-id": "53ab8dcc-9946-3b62-966e-7634d78e5034",
+		"score": 63,
+		"name": "Warner Music Denmark",
+		"sort-name": "Warner Music Denmark",
+		"country": "DK",
+		"area": {
+			"id": "4757b525-2a60-324a-b060-578765d2c993",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "Denmark",
+			"sort-name": "Denmark",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"ended": null
+		},
+		"aliases": [
+			{
+				"sort-name": "WM Denmark",
+				"type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+				"name": "WM Denmark",
+				"locale": null,
+				"type": "Label name",
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		]
+	},
+	{
+		"id": "3f648870-64b9-46ad-a758-8debb89282d5",
+		"type": "Original Production",
+		"type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+		"score": 62,
+		"name": "War On Silence",
+		"sort-name": "War On Silence",
+		"disambiguation": "Drum & Bass Record label from Crissy Criss",
+		"area": {
+			"id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+			"type": "City",
+			"type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+			"name": "London",
+			"sort-name": "London",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "2018",
+			"ended": null
+		}
+	},
+	{
+		"id": "7f146fdd-1278-4ff1-8b22-e2d5a140cf2f",
+		"score": 62,
+		"name": "Aryan War Distribution",
+		"sort-name": "Aryan War Distribution",
+		"life-span": {
+			"ended": null
+		}
+	},
+	{
+		"id": "6aff79da-ebdf-4f83-9a07-d998fb3a947e",
+		"type": "Imprint",
+		"type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+		"score": 62,
+		"name": "Warner Strategic Marketing United Kingdom",
+		"sort-name": "Warner Strategic Marketing United Kingdom",
+		"label-code": 2828,
+		"country": "GB",
+		"area": {
+			"id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+			"type": "Country",
+			"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+			"name": "United Kingdom",
+			"sort-name": "United Kingdom",
+			"life-span": {
+				"ended": null
+			}
+		},
+		"life-span": {
+			"begin": "2000",
+			"end": "2008",
+			"ended": true
+		},
+		"aliases": [
+			{
+				"sort-name": "WSM (UK)",
+				"name": "WSM (UK)",
+				"locale": null,
+				"type": null,
+				"primary": null,
+				"begin-date": null,
+				"end-date": null
+			}
+		]
+	}
+]

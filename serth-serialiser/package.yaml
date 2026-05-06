@@ -94,6 +94,7 @@ benchmarks:
       - warp
       - criterion
       - network-uri
+      - MusicBrainz
       - HTTP
   pandoc:
     main: Main.hs

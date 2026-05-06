@@ -1,10 +1,9 @@
-{-# LANGUAGE BangPatterns #-}
 {-# LANGUAGE DataKinds #-}
 {-# LANGUAGE DeriveGeneric #-}
+{-# LANGUAGE FlexibleContexts #-}
 {-# LANGUAGE FlexibleInstances #-}
 {-# LANGUAGE OverloadedStrings #-}
 {-# LANGUAGE StandaloneDeriving #-}
-{-# LANGUAGE TemplateHaskell #-}
 {-# LANGUAGE TypeOperators #-}
 {-# OPTIONS_GHC -Wno-orphans #-}
 {-# OPTIONS_GHC -Wno-partial-fields #-}
@@ -14,15 +13,17 @@ module Main (main) where
 import Control.Concurrent
 import Control.DeepSeq
 import Control.Monad
+import Control.Monad.IO.Class
 import Criterion.Main
-import qualified Data.Aeson as Aeson
-import Data.ByteString.Lazy (ByteString)
+import Data
+import Data.ByteString.Lazy (ByteString, fromStrict, toStrict)
 import Data.Functor
-import Data.Serth.Serialiser.Format.JSON
-import qualified Data.Serth.Serialiser.Format.JSON as F
-import qualified Data.Serth.Serialiser.Serialisable.TH as F
-import Futadata ()
+import qualified Data.Serth.Serialiser.Format.JSON as Serth
+import Data.Serth.Serialiser.Serialisable
 import GHC.Generics
+import GHC.IO (unsafePerformIO)
+import GHC.IORef
+import MB (loadDataSet)
 import Network.HTTP (getResponseBody, mkRequest, simpleHTTP)
 import Network.HTTP.Base (Request (..), RequestMethod (..))
 import Network.HTTP.Headers (Header (..), HeaderName (..))
@@ -32,65 +33,26 @@ import Servant hiding (GET, Header, JSON)
 import qualified Servant.API as S
 import Text.Printf (printf)
 
-data Forecast = Forecast
-    { city :: City
-    , time :: String
-    , temperature :: Temperature
-    , condition :: Condition
-    }
-    deriving (Eq, Show, Generic)
+{-# NOINLINE db #-}
+db :: IORef [Label]
+db = unsafePerformIO $ do
+    s <- loadDataSet "benchmark/servant/dataset.json"
+    newIORef $! force (translateDataSet s)
 
-instance Aeson.ToJSON Forecast
-data Condition
-    = Rain {probability :: Float}
-    | Sunny
-    | Cloudy
-    | Thunder
-    deriving (Eq, Show, Generic)
+instance Accept Serth.JSON where
+    contentTypes _ = contentTypes (Proxy :: Proxy S.JSON)
 
-instance Aeson.ToJSON Condition
-
-data Temperature = Temperature {c :: Float, f :: Float} deriving (Eq, Show, Generic)
-
-instance Aeson.ToJSON Temperature
-data Coord = Coord {latitude :: Float, longitude :: Float} deriving (Eq, Show, Generic)
-
-instance Aeson.ToJSON Coord
-data Country = Country {countryName :: String, countryCoord :: Coord} deriving (Eq, Show, Generic)
-instance Aeson.ToJSON Country
-
-data City = City {cityName :: String, country :: Country, cityCoord :: Coord} deriving (Eq, Show, Generic)
-
-instance Aeson.ToJSON City
-
-$( F.genSerialisables @F.JSON
-    [ ''Condition
-    , ''Temperature
-    , ''Coord
-    , ''Country
-    , ''City
-    , ''Forecast
-    ]
- )
+instance (Serialisable Serth.JSON a) => MimeRender Serth.JSON a where
+    mimeRender _ = fromStrict . (serialise @Serth.JSON)
 
 type API =
-    "aeson" :> Capture "n" Int :> Get '[S.JSON] [Forecast]
-        :<|> "futa" :> Capture "n" Int :> Get '[F.JSON] [Forecast]
+    "aeson" :> Capture "n" Int :> Get '[S.JSON] Page
+        :<|> "serth" :> Capture "n" Int :> Get '[Serth.JSON] Page
 
-item :: Forecast
-item =
-    Forecast
-        ( City
-            "Paris"
-            (Country "France" (Coord 3.14 10000))
-            (Coord (2 ^ (4 :: Int)) (fromIntegral (maxBound :: Int)))
-        )
-        "Wed Jul 30 2025 10:30:40 GMT+0100 (British Summer Time)"
-        (Temperature 10 56)
-        (Rain 0.6)
-
-endpoint :: Int -> Handler [Forecast]
-endpoint = return . flip replicate item
+endpoint :: Int -> Handler Page
+endpoint n = do
+    items <- take n <$> liftIO (readIORef db)
+    return $ Page "2000-01-01 00:00:00" n 0 items
 
 server_ :: Server API
 server_ = endpoint :<|> endpoint
@@ -107,16 +69,16 @@ main = do
     defaultMain [bgroup "servant" $ bench_ <$> listLength]
     killThread thread
   where
-    listLength = [1, 5, 10, 20, 50, 100, 150, 200]
+    listLength = [10, 25, 50, 100]
 
 bench_ :: Int -> Benchmark
 bench_ depth =
     bgroup (show depth) $
-        ["aeson", "futa" :: String]
-            <&> (\name -> env (return $ buildReq name depth) $ bench name . whnfAppIO (simpleHTTP >=> getResponseBody))
+        ["aeson", "serth" :: String]
+            <&> (\n -> env (return $ buildReq n depth) $ bench n . nfAppIO (simpleHTTP >=> (fmap toStrict . getResponseBody)))
   where
     buildReq :: String -> Int -> Request ByteString
-    buildReq name length_ = case parseURI (printf "http://localhost:8081/%s/%d" name length_) of
+    buildReq n length_ = case parseURI (printf "http://localhost:8081/%s/%d" n length_) of
         Just uri -> mkRequest GET uri
         _ -> error "Parsing URL failed"
 
