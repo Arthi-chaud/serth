@@ -14,6 +14,7 @@ module Futadata () where
 import Data.Aeson hiding (SumEncoding (..), defaultOptions, sumEncoding)
 import Data.Serth.Serialiser
 import Data.Serth.Serialiser.Format.JSON
+import Data.Serth.Serialiser.Format.XML
 import Data.Serth.Serialiser.Serialisable.TH
 import Data.Text
 import Data.Version
@@ -23,11 +24,52 @@ instance {-# OVERLAPPING #-} Serialisable JSON Text where
     {-# INLINE builder #-}
     builder _ = fromEncoding . toEncoding
 
+instance {-# OVERLAPPING #-} Serialisable XML Text where
+    {-# INLINE builder #-}
+    builder _ = fromEncoding . toEncoding
+
 instance {-# OVERLAPPING #-} Serialisable JSON Double where
     {-# INLINE builder #-}
     builder _ = fromEncoding . toEncoding
 
+instance {-# OVERLAPPING #-} Serialisable XML Double where
+    {-# INLINE builder #-}
+    builder _ = fromEncoding . toEncoding
+
+instance {-# OVERLAPPING #-} (Serialisable XML a) => Serialisable XML (Maybe a) where
+    {-# INLINE builder #-}
+    builder ctx = maybe mempty (builder @XML ctx)
+
 $( genSerialisablesWithOptions @JSON
+    [ ''Pandoc
+    , ''Meta
+    , ''MetaValue
+    , ''Citation
+    , ''Block
+    , ''Inline
+    , ''MathType
+    , ''QuoteType
+    , ''ListNumberStyle
+    , ''ListNumberDelim
+    , ''Text.Pandoc.Definition.Format
+    , ''Caption
+    , ''RowHeadColumns
+    , ''Alignment
+    , ''ColWidth
+    , ''Row
+    , ''TableHead
+    , ''TableBody
+    , ''TableFoot
+    , ''Cell
+    , ''RowSpan
+    , ''ColSpan
+    , ''CitationMode
+    , ''Version
+    ]
+    defaultOptions{sumEncoding = TaggedObject "t" "c"}
+ )
+
+$( genSerialisablesWithOptions @XML
     [ ''Pandoc
     , ''Meta
     , ''MetaValue

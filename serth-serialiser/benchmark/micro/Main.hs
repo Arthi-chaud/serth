@@ -58,7 +58,7 @@ buildTree n =
      in MkTree n (Just subtree) (Just subtree)
 
 depths :: [Int]
-depths = [1, 2, 5, 10]
+depths = [1, 2, 5, 10, 15, 20]
 
 jsonBenchmark :: Benchmark
 jsonBenchmark =
