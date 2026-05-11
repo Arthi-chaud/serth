@@ -1,4 +1,5 @@
 {-# LANGUAGE DeriveGeneric #-}
+{-# LANGUAGE FlexibleContexts #-}
 {-# LANGUAGE OverloadedStrings #-}
 {-# LANGUAGE TemplateHaskell #-}
 {-# LANGUAGE TypeApplications #-}
@@ -13,6 +14,8 @@ import Data.Serth.Serialiser.Format.XML
 
 import GHC.Generics (Generic)
 
+data MyList a = Null | Cons a (MyList a) deriving (Show, Eq, Generic)
+
 newtype MySimpleRecord = MSR {a :: Int} deriving (Show, Eq, Generic)
 
 newtype MyArrayRecord = MAR {array :: [Int]} deriving (Show, Eq, Generic)
@@ -23,6 +26,7 @@ newtype MySuperArrayRecord = MSPAR {nestedArray :: [MySuperRecord]} deriving (Sh
 
 data MyEither = MyNull | MyLeft Int | MyRight String Int deriving (Show, Eq, Generic)
 
+genSerialisable @JSON ''MyList
 genSerialisable @JSON ''MySimpleRecord
 genSerialisable @JSON ''MyArrayRecord
 genSerialisable @JSON ''MySuperRecord

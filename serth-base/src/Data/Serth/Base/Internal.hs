@@ -29,10 +29,17 @@ thTypeToType = \case
 
 decToType :: Dec -> Q Serth.Type
 decToType = \case
-    (NewtypeD _ n _ _ con _) -> Serth.ADT n . singleton <$> thConToConstructor con
-    (DataD _ n _ _ cons _) -> Serth.ADT n <$> mapM thConToConstructor cons
+    (NewtypeD _ n tybndr _ con _) -> Serth.ADT (tyVars tybndr) n . singleton <$> thConToConstructor con
+    (DataD _ n tybndr _ cons _) -> Serth.ADT (tyVars tybndr) n <$> mapM thConToConstructor cons
     (TySynD _ _ ty) -> thTypeToType ty
     f -> fail $ "Expected a data/newtype declaration: " ++ show f
+  where
+    tyVars =
+        map
+            ( \case
+                PlainTV n _ -> n
+                KindedTV n _ _ -> n
+            )
 
 thConToConstructor :: (MonadFail m) => Con -> m Serth.Constructor
 thConToConstructor = \case

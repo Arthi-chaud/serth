@@ -86,7 +86,7 @@ genFromJSON n = do
             ]
 
 genParser :: Name -> Type -> Q Exp
-genParser fieldSwitchName (ADT _ [RecordCons conN fields]) =
+genParser fieldSwitchName (ADT _ _ [RecordCons conN fields]) =
     [|
         let {-# INLINE go #-}
             go = $(varE fieldSwitchName) $ do
@@ -121,7 +121,7 @@ genParser fieldSwitchName (ADT _ [RecordCons conN fields]) =
 genParser _ _ = fail "Unsupported data type"
 
 genFieldSwitchExp :: Type -> Q Exp
-genFieldSwitchExp (ADT _ [RecordCons _ fields]) =
+genFieldSwitchExp (ADT _ _ [RecordCons _ fields]) =
     let fieldNames = fst <$> fields
         contName = mkName "cont"
         caseBranches :: [(Name, Q Exp)]

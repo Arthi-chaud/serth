@@ -6,7 +6,8 @@ import qualified Language.Haskell.TH as TH
 -- | Our representation of a Haskell data type
 data Type
     = -- | The definition of the type, with its name and constructors
-      ADT Name [Constructor]
+      -- The second argument represents the type variables
+      ADT [TH.Name] Name [Constructor]
     | -- | The type is hidden behind a type variable
       TypeVariable
         -- | The name of the type variable

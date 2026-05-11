@@ -10,13 +10,14 @@ module Data.Serth.Serialiser.Serialisable.TH (
     module Data.Serth.Serialiser.Serialisable.TH.Options,
 ) where
 
+import Data.IORef
+import Data.Serth.Base
 import Data.Serth.Serialiser.Format (Format)
 import Data.Serth.Serialiser.Serialisable (Serialisable (builder))
 import Data.Serth.Serialiser.Serialisable.TH.CodeGen (genBuilderMatch)
 import Data.Serth.Serialiser.Serialisable.TH.Internal
 import Data.Serth.Serialiser.Serialisable.TH.Options
 import Data.Serth.Serialiser.Template (Template)
-import Data.Serth.Base
 import Language.Haskell.TH hiding (Prim)
 
 data SerialisationExpr format
@@ -36,22 +37,27 @@ genSerialisableWithOptions tyName options = do
     let ctxName = mkName "ctx"
         valName = mkName "val"
         formatName = getFormatName @format
+    tyVarRef <- runIO $ newIORef []
     caseExpr <-
         observeType
             tyName
             ( \case
-                ADT _ cons ->
+                ADT tyVars _ cons ->
                     let
                         consSiblings = length cons - 1
                      in
-                        return $ MkExpr ctxName valName $ (\con -> (con, templateFromConstructor @format options consSiblings con)) <$> cons
+                        do
+                            runIO $ writeIORef tyVarRef tyVars
+                            return $ MkExpr ctxName valName $ (\con -> (con, templateFromConstructor @format options consSiblings con)) <$> cons
                 TypeVariable n -> fail $ "Cannot derive template from type variable " ++ nameBase n
                 Prim n -> fail $ "Cannot derive template from primitive " ++ nameBase n
                 List _ -> fail "Cannot derive template from lists"
             )
     func <- funD 'builder [clause [varP ctxName, varP valName] (return $ NormalB caseExpr) []]
-    instanceType <- [t|Serialisable $(conT formatName) $(conT tyName)|]
-    return [InstanceD (Just Overlapping) [] instanceType [func]]
+    tyVars <- runIO $ readIORef tyVarRef
+    instanceType <- [t|Serialisable $(conT formatName) $(pure $ foldl (\rest a -> rest `AppT` VarT a) (ConT tyName) tyVars)|]
+    constraints <- mapM (\tv -> [t|Serialisable $(conT formatName) $(varT tv)|]) tyVars
+    return [InstanceD (Just Overlapping) constraints instanceType [func]]
 
 genSerialisables :: forall format. (Format format, Serialisable format String) => [Name] -> Q [Dec]
 genSerialisables tyNames = genSerialisablesWithOptions @format tyNames defaultOptions
